@@ -35,7 +35,7 @@ All features ending in 'sd' are standard deviations of their respective variable
 * `chlorenchyma_vertical_thickness_um`
 * `chlorenchyma_vertical_thickness_um_sd`
 * `dC13`: delta carbon 13 isotope ratio
-* `dH+`: Change in hydrogen ion concentration from evening to morning (H+_ev_mumol_g-1_FW - H+_mo_mumol_g-1_FW)
+* `dH+`: Change in hydrogen ion concentration from evening to morning (`H+_ev_mumol_g-1_FW` - `H+_mo_mumol_g-1_FW`)
 * `dH+_significance`: Significance of hydrogen ion concentration from evening to morning
 * `distance_between_BS_um`
 * `hydrenchyma_vertical_thickness_um`
