@@ -8,43 +8,44 @@ This database is currently curated by me but I'm always looking for help. CAM is
 
 ### Legend
 All features ending in 'sd' are standard deviations of their respective variables. Units are included when applicable. 
-*	Family
-* Subfamily
-* Genus
-* Species
-* Subspecies
-* BS_area_um2: bundle sheath area in square micrometers
-* FM_DM
-* FM_DM_sd:
-* H+_ev_mumol_g-1_FW: Evening hydrogen ion concentration per gram fresh mass
-* H+_ev_mumol_g-1_FW_sd
-* H+_mo_mumol_g-1_FW: Morning hydrogen ion concentration per gram fresh mass
-* H+_mo_mumol_g-1_FW_sd
-* Habit
-* IAS: Intercellular air space as a percentage
-* IAS_sd
-* Pathway: Type of photosynthesis
-* SLA_cm2_g-1: Specific leaf area
-* SLA_cm2_g-1_sd
-* air_channel_area_um2:
-* air_channel_area_um2_sd
-* chlorenchyma_diameter_um
-* chlorenchyma_diameter_um_sd
-* chlorenchyma_hydrenchyma_ratio: Chlorenchyma diameter:hydrenchyma diameter
-* chlorenchyma_hydrenchyma_ratio_sd
-* chlorenchyma_vertical_thickness_um
-* chlorenchyma_vertical_thickness_um_sd	dC13
-* dH+: Change in hydrogen ion concentration from evening to morning (H+_ev_mumol_g-1_FW - H+_mo_mumol_g-1_FW)
-* dH+_significance: Significance of hydrogen ion concentration from evening to morning
-* distance_between_BS_um
-* hydrenchyma_vertical_thickness_um
-* hydrenchyma_vertical_thickness_um_sd
-* leaf_thickness_mm	leaf_thickness_mm_sd
-* leaf_thickness_um	leaf_thickness_um_sd
-* mesophyll_abaxial_area_um2
-* mesophyll_abaxial_length_um
-* mesophyll_adaxial_area_um2
-* mesophyll_adaxial_length_um
-* mesophyll_cell_area_um2
-* plant_part: Type os tissue measurement was taking from
-* Source: Source of data (usually peer reviewed journal article)
+*	`Family`
+* `Subfamily`
+* `Genus`
+* `Species`
+* `Subspecies`
+* `BS_area_um2`: bundle sheath area in square micrometers
+* `FM_DM`
+* `FM_DM_sd`:
+* `H+_ev_mumol_g-1_FW`: Evening hydrogen ion concentration per gram fresh mass
+* `H+_ev_mumol_g-1_FW_sd`
+* `H+_mo_mumol_g-1_FW`: Morning hydrogen ion concentration per gram fresh mass
+* `H+_mo_mumol_g-1_FW_sd`
+* `Habit`: Overall plant growth form
+* `IAS`: Intercellular air space as a percentage
+* `IAS_sd`
+* `Pathway`: Type of photosynthesis
+* `SLA_cm2_g-1`: Specific leaf area
+* `SLA_cm2_g-1_sd`
+* `air_channel_area_um2`:
+* `air_channel_area_um2_sd`
+* `chlorenchyma_diameter_um`
+* `chlorenchyma_diameter_um_sd`
+* `chlorenchyma_hydrenchyma_ratio`: Chlorenchyma diameter:hydrenchyma diameter
+* `chlorenchyma_hydrenchyma_ratio_sd`
+* `chlorenchyma_vertical_thickness_um`
+* `chlorenchyma_vertical_thickness_um_sd`
+* `dC13`: delta carbon 13 isotope ratio
+* `dH+`: Change in hydrogen ion concentration from evening to morning (H+_ev_mumol_g-1_FW - H+_mo_mumol_g-1_FW)
+* `dH+_significance`: Significance of hydrogen ion concentration from evening to morning
+* `distance_between_BS_um`
+* `hydrenchyma_vertical_thickness_um`
+* `hydrenchyma_vertical_thickness_um_sd`
+* `leaf_thickness_mm	leaf_thickness_mm_sd`
+* `leaf_thickness_um	leaf_thickness_um_sd`
+* `mesophyll_abaxial_area_um2`
+* `mesophyll_abaxial_length_um`
+* `mesophyll_adaxial_area_um2`
+* `mesophyll_adaxial_length_um`
+* `mesophyll_cell_area_um2`
+* `plant_part`: Type os tissue measurement was taking from
+* `Source`: Source of data (usually peer reviewed journal article)
