@@ -154,7 +154,7 @@
 152,Orchidaceae,Epidendroideae,Calypsoeae,Laeliinae,Scaphyglottis,imbricata,,,3.0,0.3,17.7,4.1,33.9,1.7,,,,,98.0,17.0,,,,,,,,,-27.0,16.2,1.0,,,,0.37,,,,,,,,,,Silvera et al. (2015),,,,,,,Scaphyglottis imbricata
 153,Orchidaceae,Epidendroideae,Calypsoeae,Laeliinae,Scaphyglottis,laevilabia,,,3.5,0.2,31.5,2.6,37.6,3.2,,,,,186.0,20.0,,,,,,,,,-30.2,6.1,0.0,,,,0.24,,,,,,,,,,Silvera et al. (2015),,,,,,,Scaphyglottis laevilabia
 154,Orchidaceae,Epidendroideae,Calypsoeae,Laeliinae,Scaphyglottis,sp.,,,,,,,,,,,,,,,,,,,,,,,-24.9,,,,,,0.29,,,,,,,,,,Silvera et al. (2015),,,,,,,Scaphyglottis sp.
-155,Orchidaceae,,,,Schomburgkia,undulata,lueddemannii,,,,,,,,,,,,,,,,,,,,,,-15.3,,,,,,1.35,,,,,,,,,,Silvera et al. (2015),,,,,,,Schomburgkia undulata
+155,Orchidaceae,Epidendroideae,,,Schomburgkia,undulata,lueddemannii,,,,,,,,,,,,,,,,,,,,,,-15.3,,,,,,1.35,,,,,,,,,,Silvera et al. (2015),,,,,,,Schomburgkia undulata
 156,Orchidaceae,,,,Sievekingia,butcheri,,,5.5,0.3,15.2,1.7,16.9,2.5,,,,,115.0,10.0,,,,,,,,,-26.1,1.7,0.0,,,,0.5,,,,,,,,,,Silvera et al. (2015),,,,,,,Sievekingia butcheri
 157,Orchidaceae,,,,Sigmatostalix,macrobulbon,,,,,,,,,,,,,,,,,,,,,,,-31.9,,,,,,0.14,,,,,,,,,,Silvera et al. (2015),,,,,,,Sigmatostalix macrobulbon
 158,Orchidaceae,,,,Sigmatostalix,picturatissima,,,4.6,0.1,32.6,6.6,36.9,1.1,,,,,137.0,14.0,,,,,,,,,-28.8,4.3,0.0,,,,0.23,,,,,,,,,,Silvera et al. (2015),,,,,,,Sigmatostalix picturatissima
@@ -193,9 +193,9 @@
 191,Orchidaceae,Epidendroideae,Calypsoeae,Bletiinae,Trichosalpinx,orbicularis,,,5.2,0.9,15.5,1.9,19.5,2.7,,,,,52.0,6.0,,,,,,,,,-25.1,4.0,0.0,,,,0.95,,,,,,,,,,Silvera et al. (2015),,,,,,,Trichosalpinx orbicularis
 192,Orchidaceae,Epidendroideae,Cymbidieae,Maxillariinae,Trigonidium,egertonianum,,,4.0,0.6,5.3,0.5,9.3,0.8,,,,,121.0,33.0,,,,,,,,,-32.3,4.0,1.0,,,,0.4,,,,,,,,,,Silvera et al. (2015),,,,,,,Trigonidium egertonianum
 193,Orchidaceae,Epidendroideae,Cymbidieae,Maxillariinae,Trigonidium,sp.,,,,,,,,,,,,,,,,,,,,,,,-27.3,,,,,,0.59,,,,,,,,,,Silvera et al. (2015),,,,,,,Trigonidium sp.
-194,Orchidaceae,Vanilloideae,Vanilleae,,Vanilla,pfaviana,,,10.5,0.4,29.4,0.8,52.1,1.8,,,,,141.0,5.0,,,,,,,,,-23.4,22.7,1.0,,,,0.56,,,,,,,,,,Silvera et al. (2015),,,,,,,Vanilla pfaviana
-195,Orchidaceae,Vanilloideae,Vanilleae,,Vanilla,planifolia,,,14.2,0.5,15.7,0.2,151.8,3.1,,,,,63.0,2.0,,,,,,,,,-16.4,89.7,1.0,,,,1.96,,,,,,,,,,Silvera et al. (2015),,,,,,,Vanilla planifolia
-196,Orchidaceae,Vanilloideae,Vanilleae,,Vanilla,pompona,,,17.4,0.4,14.6,0.2,118.8,3.8,,,,,92.0,3.0,,,,,,,,,-16.5,104.2,1.0,,,,1.83,,,,,,,,,,Silvera et al. (2015),,,,,,,Vanilla pompona
+194,Orchidaceae,Epidendroideae,Vanilleae,,Vanilla,pfaviana,,,10.5,0.4,29.4,0.8,52.1,1.8,,,,,141.0,5.0,,,,,,,,,-23.4,22.7,1.0,,,,0.56,,,,,,,,,,Silvera et al. (2015),,,,,,,Vanilla pfaviana
+195,Orchidaceae,Epidendroideae,Vanilleae,,Vanilla,planifolia,,,14.2,0.5,15.7,0.2,151.8,3.1,,,,,63.0,2.0,,,,,,,,,-16.4,89.7,1.0,,,,1.96,,,,,,,,,,Silvera et al. (2015),,,,,,,Vanilla planifolia
+196,Orchidaceae,Epidendroideae,Vanilleae,,Vanilla,pompona,,,17.4,0.4,14.6,0.2,118.8,3.8,,,,,92.0,3.0,,,,,,,,,-16.5,104.2,1.0,,,,1.83,,,,,,,,,,Silvera et al. (2015),,,,,,,Vanilla pompona
 197,Orchidaceae,,,,Warszewiczella,lipscombiae,,,6.4,0.1,16.5,1.4,19.0,2.0,,,,,130.0,11.0,,,,,,,,,-27.9,2.5,0.0,,,,0.43,,,,,,,,,,Silvera et al. (2015),,,,,,,Warszewiczella lipscombiae
 198,Orchidaceae,Epidendroideae,Cymbidieae,Maxillariinae,Xylobium,colleyi,,,6.3,0.6,40.6,1.4,41.8,6.6,,,,,152.0,14.0,,,,,,,,,-27.9,1.2,0.0,,,,0.45,,,,,,,,,,Silvera et al. (2015),,,,,,,Xylobium colleyi
 199,Orchidaceae,Epidendroideae,Cymbidieae,Maxillariinae,Xylobium,elongatum,,,4.2,0.5,12.3,1.4,11.7,1.2,,,,,157.0,13.0,,,,,,,,,-28.3,-0.6,0.0,,,,0.26,,,,,,,,,,Silvera et al. (2015),,,,,,,Xylobium elongatum
@@ -379,16 +379,16 @@
 377,Bromeliaceae,Tillandsioideae,,,Werauhia,sanguinolenta,,,,,,,,,,14.01,0.91,C3,,,12716.0,31.38,15.22,0.08,0.67,,158.24,1.2,,,,,237.36,1.76,,,395.6,3.44,,,,,,,Males (2018),,,,,,,Werauhia sanguinolenta
 378,Bromeliaceae,Tillandsioideae,,,Werauhia,viridiflora,,,,,,,,,,,,C3,,,28105.0,34.75,15.08,0.04,1.41,,184.77,1.04,,,,,131.12,1.04,,,315.89,2.71,,,,,,,Males (2018),,,,,,,Werauhia viridiflora
 379,Bromeliaceae,Bromelioideae,,,Wittrockia,gigantea,,,,,,,,,,,,CAM,,,34855.0,42.66,28.54,0.22,12.2,,691.72,5.45,,,,,56.7,0.34,,,748.42,5.05,,,,,,,Males (2018),,,,,,,Wittrockia gigantea
-380,Orchidaceae,,,,Dendrobium,bracteosum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-27.29,,,,,,,,540.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium bracteosum
-381,Orchidaceae,,,,Dendrobium,capituliflorum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-20.67,,,,,,,,2200.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium capituliflorum
-382,Orchidaceae,,,,Dendrobium,gouldii,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-14.37,,,,,,,,2330.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium gouldii
-383,Orchidaceae,,,,Dendrobium,helix,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-14.88,,,,,,,,2030.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium helix
-384,Orchidaceae,,,,Dendrobium,insigne,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-15.28,,,,,,,,1880.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium insigne
-385,Orchidaceae,,,,Dendrobium,lineale,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-13.73,,,,,,,,1410.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium lineale
-386,Orchidaceae,,,,Dendrobium,mirbelianum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-15.1,,,,,,,,1840.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium mirbelianum
-387,Orchidaceae,,,,Dendrobium,smilliae,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-25.66,,,,,,,,510.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium smilliae
-388,Orchidaceae,,,,Dendrobium,smilliae,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-32.03,,,,,,,,270.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium smilliae
-389,Orchidaceae,,,,Dendrobium,smilliae,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.6,,,,,,,,340.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium smilliae
+380,Orchidaceae,Epidendroideae,,,Dendrobium,bracteosum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-27.29,,,,,,,,540.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium bracteosum
+381,Orchidaceae,Epidendroideae,,,Dendrobium,capituliflorum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-20.67,,,,,,,,2200.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium capituliflorum
+382,Orchidaceae,Epidendroideae,,,Dendrobium,gouldii,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-14.37,,,,,,,,2330.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium gouldii
+383,Orchidaceae,Epidendroideae,,,Dendrobium,helix,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-14.88,,,,,,,,2030.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium helix
+384,Orchidaceae,Epidendroideae,,,Dendrobium,insigne,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-15.28,,,,,,,,1880.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium insigne
+385,Orchidaceae,Epidendroideae,,,Dendrobium,lineale,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-13.73,,,,,,,,1410.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium lineale
+386,Orchidaceae,Epidendroideae,,,Dendrobium,mirbelianum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-15.1,,,,,,,,1840.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium mirbelianum
+387,Orchidaceae,Epidendroideae,,,Dendrobium,smilliae,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-25.66,,,,,,,,510.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium smilliae
+388,Orchidaceae,Epidendroideae,,,Dendrobium,smilliae,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-32.03,,,,,,,,270.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium smilliae
+389,Orchidaceae,Epidendroideae,,,Dendrobium,smilliae,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.6,,,,,,,,340.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium smilliae
 390,Orchidaceae,,,,Vanda,hindsii,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-14.65,,,,,,,,1530.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Vanda hindsii
 391,Asclepiadaceae,,,,Dischidia,imbricata,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-15.59,,,,,,,,1800.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dischidia imbricata
 392,Orchidaceae,,,,Agrostophyllum,majus,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-31.11,,,,,,,,280.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Agrostophyllum majus
@@ -421,20 +421,20 @@
 419,Orchidaceae,,,,Ceratostylis,sp.,,,,,,,,,Lithophyte,,,,,,,,,,,,,,-24.25,,,,,,,,2100.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Ceratostylis sp.
 420,Orchidaceae,,,,Ceratostylis,sp.,,,,,,,,,Lithophyte,,,,,,,,,,,,,,-27.07,,,,,,,,1200.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Ceratostylis sp.
 421,Orchidaceae,,,,Cryptostylis,arachnites,,,,,,,,,Terrestrial,,,,,,,,,,,,,,-34.03,,,,,,,,410.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Cryptostylis arachnites
-422,Orchidaceae,,,,Dendrobium,johnsoniae,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-30.25,,,,,,,,1430.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium johnsoniae
-423,Orchidaceae,,,,Dendrobium,pseudocalceolum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-12.49,,,,,,,,1650.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium pseudocalceolum
-424,Orchidaceae,,,,Dendrobium,pseudocalceolum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-13.0,,,,,,,,1060.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium pseudocalceolum
-425,Orchidaceae,,,,Dendrobium,tumoriferum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-24.44,,,,,,,,1040.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium tumoriferum
-426,Orchidaceae,,,,Dendrobium,sp.,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.08,,,,,,,,230.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium sp.
-427,Orchidaceae,,,,Dendrobium,sp.,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-29.36,,,,,,,,740.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium sp.
-428,Orchidaceae,,,,Dendrobium,sp.,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-31.49,,,,,,,,170.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium sp.
-429,Orchidaceae,,,,Dendrobium,sp.,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.06,,,,,,,,400.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium sp.
-430,Orchidaceae,,,,Dendrobium,sp.,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.47,,,,,,,,1170.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium sp.
-431,Orchidaceae,,,,Dendrobium,sp.,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-29.85,,,,,,,,760.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium sp.
+422,Orchidaceae,Epidendroideae,,,Dendrobium,johnsoniae,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-30.25,,,,,,,,1430.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium johnsoniae
+423,Orchidaceae,Epidendroideae,,,Dendrobium,pseudocalceolum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-12.49,,,,,,,,1650.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium pseudocalceolum
+424,Orchidaceae,Epidendroideae,,,Dendrobium,pseudocalceolum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-13.0,,,,,,,,1060.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium pseudocalceolum
+425,Orchidaceae,Epidendroideae,,,Dendrobium,tumoriferum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-24.44,,,,,,,,1040.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium tumoriferum
+426,Orchidaceae,Epidendroideae,,,Dendrobium,sp.,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.08,,,,,,,,230.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium sp.
+427,Orchidaceae,Epidendroideae,,,Dendrobium,sp.,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-29.36,,,,,,,,740.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium sp.
+428,Orchidaceae,Epidendroideae,,,Dendrobium,sp.,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-31.49,,,,,,,,170.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium sp.
+429,Orchidaceae,Epidendroideae,,,Dendrobium,sp.,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.06,,,,,,,,400.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium sp.
+430,Orchidaceae,Epidendroideae,,,Dendrobium,sp.,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.47,,,,,,,,1170.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium sp.
+431,Orchidaceae,Epidendroideae,,,Dendrobium,sp.,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-29.85,,,,,,,,760.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium sp.
 432,Orchidaceae,,,,Dipodium,pandanum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-29.97,,,,,,,,270.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dipodium pandanum
-433,Orchidaceae,,,,Eria,eriaeoides,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-31.17,,,,,,,,480.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Eria eriaeoides
-434,Orchidaceae,,,,Eria,eriaeoides,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-31.09,,,,,,,,450.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Eria eriaeoides
-435,Orchidaceae,,,,Eria,truncicola,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-30.22,,,,,,,,270.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Eria truncicola
+433,Orchidaceae,Epidendroideae,,,Eria,eriaeoides,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-31.17,,,,,,,,480.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Eria eriaeoides
+434,Orchidaceae,Epidendroideae,,,Eria,eriaeoides,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-31.09,,,,,,,,450.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Eria eriaeoides
+435,Orchidaceae,Epidendroideae,,,Eria,truncicola,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-30.22,,,,,,,,270.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Eria truncicola
 436,Orchidaceae,,,,Grammatophyllum,papuanum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.0,,,,,,,,330.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Grammatophyllum papuanum
 437,Orchidaceae,,,,Robiquetia,gracilistipes,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-11.65,,,,,,,,1680.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Robiquetia gracilistipes
 438,Orchidaceae,,,,Agrostophyllum,sp.,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-31.76,,,,,,,,250.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Agrostophyllum sp.
@@ -482,12 +482,12 @@
 480,Polypodiaceae,,,,Selliguea,werneri,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-30.05,,,,,,,,750.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Selliguea werneri
 481,Orchidaceae,Epidendroideae,Vandeae,Collabiinae,Calanthe,flava,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-26.38,,,,,,,,350.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Calanthe flava
 482,Orchidaceae,Epidendroideae,Vandeae,Collabiinae,Calanthe,sp.,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-32.6,,,,,,,,350.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Calanthe sp.
-483,Orchidaceae,,,,Dendrobium,aurantiroseum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-34.66,,,,,,,,390.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium aurantiroseum
-484,Orchidaceae,,,,Dendrobium,aurantiroseum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-30.61,,,,,,,,440.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium aurantiroseum
-485,Orchidaceae,,,,Dendrobium,aurantiroseum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-26.8,,,,,,,,550.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium aurantiroseum
-486,Orchidaceae,,,,Dendrobium,habbemense,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-30.58,,,,,,,,320.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium habbemense
-487,Orchidaceae,,,,Dendrobium,rigidifolium,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.93,,,,,,,,830.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium rigidifolium
-488,Orchidaceae,,,,Dendrobium,vexillarius,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-25.52,,,,,,,,550.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium vexillarius
+483,Orchidaceae,Epidendroideae,,,Dendrobium,aurantiroseum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-34.66,,,,,,,,390.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium aurantiroseum
+484,Orchidaceae,Epidendroideae,,,Dendrobium,aurantiroseum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-30.61,,,,,,,,440.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium aurantiroseum
+485,Orchidaceae,Epidendroideae,,,Dendrobium,aurantiroseum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-26.8,,,,,,,,550.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium aurantiroseum
+486,Orchidaceae,Epidendroideae,,,Dendrobium,habbemense,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-30.58,,,,,,,,320.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium habbemense
+487,Orchidaceae,Epidendroideae,,,Dendrobium,rigidifolium,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.93,,,,,,,,830.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium rigidifolium
+488,Orchidaceae,Epidendroideae,,,Dendrobium,vexillarius,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-25.52,,,,,,,,550.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium vexillarius
 489,Orchidaceae,,,,Diplocaulobium,iboense,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-26.31,,,,,,,,630.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Diplocaulobium iboense
 490,Orchidaceae,,,,Epiblastus,sp.,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.4,,,,,,,,750.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Epiblastus sp.
 491,Orchidaceae,,,,Epiblastus,sp.,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-27.57,,,,,,,,710.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Epiblastus sp.
@@ -509,12 +509,12 @@
 507,Iridaceae,,,,Libbertia,pulchella,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-30.32,,,,,,,,200.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Libbertia pulchella
 508,Orchidaceae,Epidendroideae,Vandeae,Dendrobiinae,Bulbophyllum,barbatum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-26.18,,,,,,,,1150.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Bulbophyllum barbatum
 509,Orchidaceae,Epidendroideae,Vandeae,Dendrobiinae,Bulbophyllum,barbatum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-29.72,,,,,,,,1150.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Bulbophyllum barbatum
-510,Orchidaceae,,,,Dendrobium,brevicaule,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-31.86,,,,,,,,750.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium brevicaule
-511,Orchidaceae,,,,Dendrobium,brevicaule,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-30.52,,,,,,,,700.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium brevicaule
-512,Orchidaceae,,,,Dendrobium,dekockii,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.98,,,,,,,,550.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium dekockii
+510,Orchidaceae,Epidendroideae,,,Dendrobium,brevicaule,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-31.86,,,,,,,,750.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium brevicaule
+511,Orchidaceae,Epidendroideae,,,Dendrobium,brevicaule,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-30.52,,,,,,,,700.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium brevicaule
+512,Orchidaceae,Epidendroideae,,,Dendrobium,dekockii,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.98,,,,,,,,550.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Dendrobium dekockii
 513,Orchidaceae,Epidendroideae,Malaxideae,,Liparis,alpina,,,,,,,,,Lithophyte,,,,,,,,,,,,,,-30.09,,,,,,,,700.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Liparis alpina
-514,Orchidaceae,,,,Pterostylis,acuminata,,,,,,,,,Terrestrial,,,,,,,,,,,,,,-31.52,,,,,,,,350.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Pterostylis acuminata
-515,Orchidaceae,,,,Thelymitra,papuanum,,,,,,,,,Terrestrial,,,,,,,,,,,,,,-26.35,,,,,,,,1100.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Thelymitra papuanum
+514,Orchidaceae,Orchidoideae,,,Pterostylis,acuminata,,,,,,,,,Terrestrial,,,,,,,,,,,,,,-31.52,,,,,,,,350.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Pterostylis acuminata
+515,Orchidaceae,Orchidoideae,,,Thelymitra,papuanum,,,,,,,,,Terrestrial,,,,,,,,,,,,,,-26.35,,,,,,,,1100.0,,,,,,,,Earnshaw et al. (1987),,,,,,,Thelymitra papuanum
 516,Crassulaceae,,,,Sedum,botterii,,,,,,,,,,,,,,,,,,,,,,,-24.1,,,,,,2.5,0.4,2500.0,400.0,,,,,,Leaf,Teeri et al. (1981),,,,,,,Sedum botterii
 517,Crassulaceae,,,,Sedum,tortuosum,,,,,,,,,,,,,,,,,,,,,,,-26.3,,,,,,1.1,0.2,1100.0,200.0,,,,,,Leaf,Teeri et al. (1981),,,,,,,Sedum tortuosum
 518,Crassulaceae,,,,Sedum,dendroideum,,,,,,,,,,,,,,,,,,,,,,,-15.7,,,,,,4.0,,4000.0,,,,,,,Leaf,Teeri et al. (1981),,,,,,,Sedum dendroideum
@@ -672,23 +672,23 @@
 670,Crassulaceae,,,,Kalanchoe,waldheimi,,,,,,,,,"terrestrial, bush",,,,,,,,,,,,,,-15.0,,,,,,,,,,,,,,,Leaf,Kluge et al. 1991,,,,,,,Kalanchoe waldheimi
 671,Crassulaceae,,,,Kalanchoe,species,,,,,,,,,terrestrial,,,,,,,,,,,,,,-13.72,,,,,,,,,,,,,,,Leaf,Kluge et al. 1991,,,,,,,Kalanchoe species
 672,Crassulaceae,,,,Kalanchoe,species,,,,,,,,,terrestrial,,,,,,,,,,,,,,-12.25,,,,,,,,,,,,,,,Leaf,Kluge et al. 1991,,,,,,,Kalanchoe species
-673,Asparagacaeae,,,,Agave,palmeri,,10524.9801,,,,,,,,5.55719864122,,CAM,,,,,,,,,,,,,,329.358857143,,,,,1223.10133333,,3256.2742,365.133,2200.9664,391.080333333,2728.6203,,Heyduk et al. 2016,,,,,,,Agave palmeri
-674,Asparagacaeae,,,,Agave,palmeri,,18714.4843333,,,,,,,,14.2637577243,,CAM,,,,,,,,,,,,,,465.194,,,,,,,,,3464.3714,473.379,3464.3714,,Heyduk et al. 2016,,,,,,,Agave palmeri
-675,Asparagacaeae,,,,Agave,palmeri,,14100.879,,,,,,,,15.9291873865,,CAM,,,,,,,,,,,,,,714.506,,,,,,,2312.555,293.886,,,2312.555,,Heyduk et al. 2016,,,,,,,Agave palmeri
-676,Asparagacaeae,,,,Agave,schotti,,34902.421,,,,,,,,8.81137115808,,CAM,,,,,,,,,,,,,,700.205,,,,,,,2078.251,234.482333333,,,2078.251,,Heyduk et al. 2016,,,,,,,Agave schotti
-677,Asparagacaeae,,,,Agave,schotti,,41504.328,,,,,,,,8.61677971705,,CAM,,,,,,,,,,,,,,766.552,,,,,1686.05766667,,2373.252,332.180366667,3070.0088,405.316,2721.6304,,Heyduk et al. 2016,,,,,,,Agave schotti
-678,Asparagacaeae,,,,Agave,schotti,,20422.3343333,,,,,,,,5.17434868526,,CAM,,,,,,,,,,,,,,421.011333333,,,,,944.793333333,,2068.3916,238.602966667,2523.1618,305.233333333,2295.7767,,Heyduk et al. 2016,,,,,,,Agave schotti
+673,Asparagaceae,,,,Agave,palmeri,,10524.9801,,,,,,,,5.55719864122,,CAM,,,,,,,,,,,,,,329.358857143,,,,,1223.10133333,,3256.2742,365.133,2200.9664,391.080333333,2728.6203,,Heyduk et al. 2016,,,,,,,Agave palmeri
+674,Asparagaceae,,,,Agave,palmeri,,18714.4843333,,,,,,,,14.2637577243,,CAM,,,,,,,,,,,,,,465.194,,,,,,,,,3464.3714,473.379,3464.3714,,Heyduk et al. 2016,,,,,,,Agave palmeri
+675,Asparagaceae,,,,Agave,palmeri,,14100.879,,,,,,,,15.9291873865,,CAM,,,,,,,,,,,,,,714.506,,,,,,,2312.555,293.886,,,2312.555,,Heyduk et al. 2016,,,,,,,Agave palmeri
+676,Asparagaceae,,,,Agave,schotti,,34902.421,,,,,,,,8.81137115808,,CAM,,,,,,,,,,,,,,700.205,,,,,,,2078.251,234.482333333,,,2078.251,,Heyduk et al. 2016,,,,,,,Agave schotti
+677,Asparagaceae,,,,Agave,schotti,,41504.328,,,,,,,,8.61677971705,,CAM,,,,,,,,,,,,,,766.552,,,,,1686.05766667,,2373.252,332.180366667,3070.0088,405.316,2721.6304,,Heyduk et al. 2016,,,,,,,Agave schotti
+678,Asparagaceae,,,,Agave,schotti,,20422.3343333,,,,,,,,5.17434868526,,CAM,,,,,,,,,,,,,,421.011333333,,,,,944.793333333,,2068.3916,238.602966667,2523.1618,305.233333333,2295.7767,,Heyduk et al. 2016,,,,,,,Agave schotti
 679,Asparagacaeae,,,,Beschorneria,yuccoides,,22202.4496667,,,,,,,,15.4191884866,,C3,,,,,,,,,,,,,,424.511333333,,,,,691.279666667,,985.1466,120.898666667,1216.8208,152.987333333,1100.9837,,Heyduk et al. 2016,,,,,,,Beschorneria yuccoides
 680,Asparagacaeae,,,,Beschorneria,yuccoides,,35992.03325,,,,,,,,4.0070811979,,C3,,,,,,,,,,,,,,493.63475,,,,,1519.297,,494.8394,86.5813333333,661.4034,132.055,578.1214,,Heyduk et al. 2016,,,,,,,Beschorneria yuccoides
 681,Asparagacaeae,,,,Beschorneria,yuccoides,,35472.784,,,,,,,,16.4763975178,,C3,,,,,,,,,,,,,,630.7655,,,,,779.649,,830.9798,110.309666667,726.9316,141.628666667,778.9557,,Heyduk et al. 2016,,,,,,,Beschorneria yuccoides
 682,Asparagacaeae,,,,Beschorneria,yuccoides,,21326.0156667,,,,,,,,15.3999153823,,C3,,,,,,,,,,,,,,388.87,,,,,570.832333333,,685.4622,124.142666667,788.0096,132.054666667,736.7359,,Heyduk et al. 2016,,,,,,,Beschorneria yuccoides
 683,Asparagacaeae,,,,Beschorneria,yuccoides,,19273.947,,,,,,,,14.2977368595,,C3,,,,,,,,,,,,,,701.409,,,,,406.225666667,,938.3618,114.551,834.706,134.596333333,886.5339,,Heyduk et al. 2016,,,,,,,Beschorneria yuccoides
 684,Asparagacaeae,,,,Beschorneria,yuccoides,,21095.8905,,,,,,,,6.6962164403,,C3,,,,,,,,,,,,,,349.871166667,,,,,,,708.5756,157.000666667,1163.07,205.062333333,935.8228,,Heyduk et al. 2016,,,,,,,Beschorneria yuccoides
-685,Asparagacaeae,,,,Chlorophytum,rhizopendulum,,8534.503,,,,,,,,35.9755306097,,C3,,,,,,,,,,,,,,,,,,,239.191666667,,,,307.4816,39.442,307.4816,,Heyduk et al. 2016,,,,,,,Chlorophytum rhizopendulum
-686,Asparagacaeae,,,,Chlorophytum,rhizopendulum,,9691.855,,,,,,,,35.2056489695,,C3,,,,,,,,,,,,,,,,,,,174.728,,,,282.8762,39.0756666667,282.8762,,Heyduk et al. 2016,,,,,,,Chlorophytum rhizopendulum
-687,Asparagacaeae,,,,Chlorophytum,rhizopendulum,,15763.787,,,,,,,,28.0338836272,,C3,,,,,,,,,,,,,,,,,,,271.929333333,,,,335.014,39.7636666667,335.014,,Heyduk et al. 2016,,,,,,,Chlorophytum rhizopendulum
-688,Asparagacaeae,,,,Chlorophytum,rhizopendulum,,9177.265,,,,,,,,31.903527157,,C3,,,,,,,,,,,,,,,,,,,238.176333333,,,,292.262,38.8603333333,292.262,,Heyduk et al. 2016,,,,,,,Chlorophytum rhizopendulum
-689,Asparagacaeae,,,,Chlorophytum,rhizopendulum,,10260.065,,,,,,,,35.9186430637,,C3,,,,,,,,,,,,,,,,,,,233.448666667,,,,294.8354,31.4983333333,294.8354,,Heyduk et al. 2016,,,,,,,Chlorophytum rhizopendulum
+685,Asparagaceae,,,,Chlorophytum,rhizopendulum,,8534.503,,,,,,,,35.9755306097,,C3,,,,,,,,,,,,,,,,,,,239.191666667,,,,307.4816,39.442,307.4816,,Heyduk et al. 2016,,,,,,,Chlorophytum rhizopendulum
+686,Asparagaceae,,,,Chlorophytum,rhizopendulum,,9691.855,,,,,,,,35.2056489695,,C3,,,,,,,,,,,,,,,,,,,174.728,,,,282.8762,39.0756666667,282.8762,,Heyduk et al. 2016,,,,,,,Chlorophytum rhizopendulum
+687,Asparagaceae,,,,Chlorophytum,rhizopendulum,,15763.787,,,,,,,,28.0338836272,,C3,,,,,,,,,,,,,,,,,,,271.929333333,,,,335.014,39.7636666667,335.014,,Heyduk et al. 2016,,,,,,,Chlorophytum rhizopendulum
+688,Asparagaceae,,,,Chlorophytum,rhizopendulum,,9177.265,,,,,,,,31.903527157,,C3,,,,,,,,,,,,,,,,,,,238.176333333,,,,292.262,38.8603333333,292.262,,Heyduk et al. 2016,,,,,,,Chlorophytum rhizopendulum
+689,Asparagaceae,,,,Chlorophytum,rhizopendulum,,10260.065,,,,,,,,35.9186430637,,C3,,,,,,,,,,,,,,,,,,,233.448666667,,,,294.8354,31.4983333333,294.8354,,Heyduk et al. 2016,,,,,,,Chlorophytum rhizopendulum
 690,Asparagacaeae,,,,Hesperaloe,funifera,,18678.03825,,,,,,,,4.15871084276,,CAM,,,,,,,,,,,,,,328.449,,,,,1052.544,,585.9204,163.505666667,821.3112,211.007333333,703.6158,,Heyduk et al. 2016,,,,,,,Hesperaloe funifera
 691,Asparagacaeae,,,,Hesperaloe,funifera,,25846.5771429,,,,,,,,3.91343058751,,CAM,,,,,,,,,,,,,,468.9885,,,,,1540.343,,805.2318,226.711666667,1076.5278,268.589333333,940.8798,,Heyduk et al. 2016,,,,,,,Hesperaloe funifera
 692,Asparagacaeae,,,,Hesperaloe,funifera,,28392.4694,,,,,,,,4.7004303829,,CAM,,,,,,,,,,,,,,474.4962,,,,,1254.16666667,,836.4792,143.803333333,951.687,182.172333333,894.0831,,Heyduk et al. 2016,,,,,,,Hesperaloe funifera
@@ -710,41 +710,41 @@
 708,Asparagacaeae,,,,Polianthes,tuberosa,,11989.961,,,,,,,,6.42829079659,,C3,,,,,,,,,,,,,,365.775,,,,,368.592333333,,1075.1982,93.642,1170.7086,86.8623333333,1122.9534,,Heyduk et al. 2016,,,,,,,Polianthes tuberosa
 709,Asparagacaeae,,,,Polianthes,tuberosa,,11358.6935,,,,,,,,8.64939050526,,C3,,,,,,,,,,,,,,349.58225,,,,,394.809333333,,958.9522,107.760666667,1109.7228,75.991,1034.3375,,Heyduk et al. 2016,,,,,,,Polianthes tuberosa
 710,Asparagacaeae,,,,Polianthes,tuberosa,,9303.679,,,,,,,,12.8153632194,,C3,,,,,,,,,,,,,,355.767666667,,,,,443.992333333,,833.3178,79.1883333333,1289.0328,82.2366666667,1061.1753,,Heyduk et al. 2016,,,,,,,Polianthes tuberosa
-711,Asparagacaeae,,,,Yucca,aloifolia,,16989.347,,,,,,,,0.105979230917,,CAM,,,,,,,,,,,,,,456.4815,,,,,1123.816,,1821.9672,,2189.6432,,2005.8052,,Heyduk et al. 2016,,,,,,,Yucca aloifolia
-712,Asparagacaeae,,,,Yucca,aloifolia,,27965.696,,,,,,,,0.156913555465,,CAM,,,,,,,,,,,,,,579.677,,,,,1573.2585,,999.7998,,1851.4698,,1425.6348,,Heyduk et al. 2016,,,,,,,Yucca aloifolia
-713,Asparagacaeae,,,,Yucca,aloifolia,,23896.033,,,,,,,,0.134734141195,,CAM,,,,,,,,,,,,,,928.277,,,,,1282.1535,,1317.6982,,1731.6752,,1524.6867,,Heyduk et al. 2016,,,,,,,Yucca aloifolia
-714,Asparagacaeae,,,,Yucca,angustissima,,26457.1056,,,,,,,,3.48219317594,,C3,,,,,,,,,,,,,,271.535285714,,,,,2216.16933333,,448.1844,139.84,701.0656,194.862333333,574.625,,Heyduk et al. 2016,,,,,,,Yucca angustissima
-715,Asparagacaeae,,,,Yucca,angustissima,,19446.4513333,,,,,,,,6.73889365163,,C3,,,,,,,,,,,,,,512.405,,,,,573.187333333,,510.2032,137.361333333,720.7396,172.564333333,615.4714,,Heyduk et al. 2016,,,,,,,Yucca angustissima
-716,Asparagacaeae,,,,Yucca,brevifolia,,21240.89775,,,,,,,,2.17443930353,,CAM,,,,,,,,,,,,,,205.712666667,,,,,753.256,,504.7016,162.880333333,583.5946,193.561666667,544.1481,,Heyduk et al. 2016,,,,,,,Yucca brevifolia
-717,Asparagacaeae,,,,Yucca,brevifolia,,59964.6026,,,,,,,,3.1581559877,,CAM,,,,,,,,,,,,,,257.589666667,,,,,1489.753,,528.646,190.519,747.5886,225.056333333,638.1173,,Heyduk et al. 2016,,,,,,,Yucca brevifolia
-718,Asparagacaeae,,,,Agave,aktites,,,,,,,,,,,,CAM,,,,,,,,,,,-15.68,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave aktites
-719,Asparagacaeae,,,,Agave,americana,,,,,,,,,,,,CAM,,,,,,,,,,,-11.61,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave americana
-720,Asparagacaeae,,,,Agave,angustifolia,,,,,,,,,,,,CAM,,,,,,,,,,,-13.14,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave angustifolia
-721,Asparagacaeae,,,,Agave,arizonica,,,,,,,,,,,,CAM,,,,,,,,,,,-13.03,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave arizonica
-722,Asparagacaeae,,,,Agave,arizonica,,,,,,,,,,,,CAM,,,,,,,,,,,-12.33,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave arizonica
-723,Asparagacaeae,,,,Agave,aurea,,,,,,,,,,,,CAM,,,,,,,,,,,-13.62,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave aurea
-724,Asparagacaeae,,,,Agave,bovicornuta,,,,,,,,,,,,CAM,,,,,,,,,,,-14.56,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave bovicornuta
-725,Asparagacaeae,,,,Agave,cerulata,,,,,,,,,,,,CAM,,,,,,,,,,,-11.41,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave cerulata
-726,Asparagacaeae,,,,Agave,colimana,,,,,,,,,,,,CAM,,,,,,,,,,,-16.1,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave colimana
-727,Asparagacaeae,,,,Agave,deserti,,,,,,,,,,,,CAM,,,,,,,,,,,-14.99,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave deserti
-728,Asparagacaeae,,,,Agave,glomeruliflora,,,,,,,,,,,,CAM,,,,,,,,,,,-14.89,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave glomeruliflora
-729,Asparagacaeae,,,,Agave,murpheyi,,,,,,,,,,,,CAM,,,,,,,,,,,-14.8,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave murpheyi
-730,Asparagacaeae,,,,Agave,ocahui,,,,,,,,,,,,CAM,,,,,,,,,,,-12.37,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave ocahui
-731,Asparagacaeae,,,,Agave,parryi,,,,,,,,,,,,CAM,,,,,,,,,,,-14.66,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave parryi
-732,Asparagacaeae,,,,Agave,parviflora,,,,,,,,,,,,CAM,,,,,,,,,,,-11.32,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave parviflora
-733,Asparagacaeae,,,,Agave,scabra,,,,,,,,,,,,CAM,,,,,,,,,,,-13.78,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave scabra
-734,Asparagacaeae,,,,Agave,schidigera,,,,,,,,,,,,CAM,,,,,,,,,,,-13.38,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave schidigera
-735,Asparagacaeae,,,,Agave,schotti,,,,,,,,,,,,CAM,,,,,,,,,,,-13.02,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave schotti
-736,Asparagacaeae,,,,Agave,schotti,,,,,,,,,,,,CAM,,,,,,,,,,,-12.49,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave schotti
-737,Asparagacaeae,,,,Agave,seemanniana,,,,,,,,,,,,CAM,,,,,,,,,,,-13.59,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave seemanniana
-738,Asparagacaeae,,,,Agave,sobria,,,,,,,,,,,,CAM,,,,,,,,,,,-12.39,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave sobria
-739,Asparagacaeae,,,,Agave,tequilana,,,,,,,,,,,,CAM,,,,,,,,,,,-14.14,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave tequilana
-740,Asparagacaeae,,,,Agave,utahensis var. utahensis,,,,,,,,,,,,CAM,,,,,,,,,,,-16.88,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave utahensis var. utahensis
+711,Asparagaceae,,,,Yucca,aloifolia,,16989.347,,,,,,,,0.105979230917,,CAM,,,,,,,,,,,,,,456.4815,,,,,1123.816,,1821.9672,,2189.6432,,2005.8052,,Heyduk et al. 2016,,,,,,,Yucca aloifolia
+712,Asparagaceae,,,,Yucca,aloifolia,,27965.696,,,,,,,,0.156913555465,,CAM,,,,,,,,,,,,,,579.677,,,,,1573.2585,,999.7998,,1851.4698,,1425.6348,,Heyduk et al. 2016,,,,,,,Yucca aloifolia
+713,Asparagaceae,,,,Yucca,aloifolia,,23896.033,,,,,,,,0.134734141195,,CAM,,,,,,,,,,,,,,928.277,,,,,1282.1535,,1317.6982,,1731.6752,,1524.6867,,Heyduk et al. 2016,,,,,,,Yucca aloifolia
+714,Asparagaceae,,,,Yucca,angustissima,,26457.1056,,,,,,,,3.48219317594,,C3,,,,,,,,,,,,,,271.535285714,,,,,2216.16933333,,448.1844,139.84,701.0656,194.862333333,574.625,,Heyduk et al. 2016,,,,,,,Yucca angustissima
+715,Asparagaceae,,,,Yucca,angustissima,,19446.4513333,,,,,,,,6.73889365163,,C3,,,,,,,,,,,,,,512.405,,,,,573.187333333,,510.2032,137.361333333,720.7396,172.564333333,615.4714,,Heyduk et al. 2016,,,,,,,Yucca angustissima
+716,Asparagaceae,,,,Yucca,brevifolia,,21240.89775,,,,,,,,2.17443930353,,CAM,,,,,,,,,,,,,,205.712666667,,,,,753.256,,504.7016,162.880333333,583.5946,193.561666667,544.1481,,Heyduk et al. 2016,,,,,,,Yucca brevifolia
+717,Asparagaceae,,,,Yucca,brevifolia,,59964.6026,,,,,,,,3.1581559877,,CAM,,,,,,,,,,,,,,257.589666667,,,,,1489.753,,528.646,190.519,747.5886,225.056333333,638.1173,,Heyduk et al. 2016,,,,,,,Yucca brevifolia
+718,Asparagaceae,,,,Agave,aktites,,,,,,,,,,,,CAM,,,,,,,,,,,-15.68,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave aktites
+719,Asparagaceae,,,,Agave,americana,,,,,,,,,,,,CAM,,,,,,,,,,,-11.61,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave americana
+720,Asparagaceae,,,,Agave,angustifolia,,,,,,,,,,,,CAM,,,,,,,,,,,-13.14,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave angustifolia
+721,Asparagaceae,,,,Agave,arizonica,,,,,,,,,,,,CAM,,,,,,,,,,,-13.03,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave arizonica
+722,Asparagaceae,,,,Agave,arizonica,,,,,,,,,,,,CAM,,,,,,,,,,,-12.33,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave arizonica
+723,Asparagaceae,,,,Agave,aurea,,,,,,,,,,,,CAM,,,,,,,,,,,-13.62,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave aurea
+724,Asparagaceae,,,,Agave,bovicornuta,,,,,,,,,,,,CAM,,,,,,,,,,,-14.56,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave bovicornuta
+725,Asparagaceae,,,,Agave,cerulata,,,,,,,,,,,,CAM,,,,,,,,,,,-11.41,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave cerulata
+726,Asparagaceae,,,,Agave,colimana,,,,,,,,,,,,CAM,,,,,,,,,,,-16.1,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave colimana
+727,Asparagaceae,,,,Agave,deserti,,,,,,,,,,,,CAM,,,,,,,,,,,-14.99,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave deserti
+728,Asparagaceae,,,,Agave,glomeruliflora,,,,,,,,,,,,CAM,,,,,,,,,,,-14.89,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave glomeruliflora
+729,Asparagaceae,,,,Agave,murpheyi,,,,,,,,,,,,CAM,,,,,,,,,,,-14.8,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave murpheyi
+730,Asparagaceae,,,,Agave,ocahui,,,,,,,,,,,,CAM,,,,,,,,,,,-12.37,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave ocahui
+731,Asparagaceae,,,,Agave,parryi,,,,,,,,,,,,CAM,,,,,,,,,,,-14.66,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave parryi
+732,Asparagaceae,,,,Agave,parviflora,,,,,,,,,,,,CAM,,,,,,,,,,,-11.32,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave parviflora
+733,Asparagaceae,,,,Agave,scabra,,,,,,,,,,,,CAM,,,,,,,,,,,-13.78,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave scabra
+734,Asparagaceae,,,,Agave,schidigera,,,,,,,,,,,,CAM,,,,,,,,,,,-13.38,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave schidigera
+735,Asparagaceae,,,,Agave,schotti,,,,,,,,,,,,CAM,,,,,,,,,,,-13.02,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave schotti
+736,Asparagaceae,,,,Agave,schotti,,,,,,,,,,,,CAM,,,,,,,,,,,-12.49,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave schotti
+737,Asparagaceae,,,,Agave,seemanniana,,,,,,,,,,,,CAM,,,,,,,,,,,-13.59,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave seemanniana
+738,Asparagaceae,,,,Agave,sobria,,,,,,,,,,,,CAM,,,,,,,,,,,-12.39,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave sobria
+739,Asparagaceae,,,,Agave,tequilana,,,,,,,,,,,,CAM,,,,,,,,,,,-14.14,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave tequilana
+740,Asparagaceae,,,,Agave,utahensis var. utahensis,,,,,,,,,,,,CAM,,,,,,,,,,,-16.88,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Agave utahensis var. utahensis
 741,Asparagacaeae,,,,Beschorneria,yuccoides,,,,,,,,,,,,C3,,,,,,,,,,,-25.47,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Beschorneria yuccoides
 742,Asparagacaeae,,,,Camassia,howellii,,,,,,,,,,,,C3,,,,,,,,,,,-29.09,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Camassia howellii
 743,Asparagacaeae,,,,Camassia,pomeridianum,,,,,,,,,,,,C3,,,,,,,,,,,-29.11,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Camassia pomeridianum
 744,Asparagacaeae,,,,Camassia,quamash spp. utahensis,,,,,,,,,,,,C3,,,,,,,,,,,-27.73,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Camassia quamash spp. utahensis
-745,Asparagacaeae,,,,Chlorophytum,rhizopendulum,,,,,,,,,,,,C3,,,,,,,,,,,-28.53,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Chlorophytum rhizopendulum
+745,Asparagaceae,,,,Chlorophytum,rhizopendulum,,,,,,,,,,,,C3,,,,,,,,,,,-28.53,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Chlorophytum rhizopendulum
 746,Asparagacaeae,,,,Echeandia,leucantha,,,,,,,,,,,,C3,,,,,,,,,,,-27.85,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Echeandia leucantha
 747,Asparagacaeae,,,,Echeandia,luteola,,,,,,,,,,,,C3,,,,,,,,,,,-28.04,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Echeandia luteola
 748,Asparagacaeae,,,,Echeandia,mexicana,,,,,,,,,,,,C4,,,,,,,,,,,-25.04,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Echeandia mexicana
@@ -757,27 +757,27 @@
 755,Asparagacaeae,,,,Polianthes,tuberosa,,,,,,,,,,,,C3,,,,,,,,,,,-29.86,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Polianthes tuberosa
 756,Asparagacaeae,,,,Schoenolirion,croceum,,,,,,,,,,,,C3,,,,,,,,,,,-28.39,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Schoenolirion croceum
 757,Asparagacaeae,,,,Schoenolirion,croceum,,,,,,,,,,,,C3,,,,,,,,,,,-28.81,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Schoenolirion croceum
-758,Asparagacaeae,,,,Yucca,aloifolia,,,,,,,,,,,,CAM,,,,,,,,,,,-15.33,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca aloifolia
-759,Asparagacaeae,,,,Yucca,angustissima,,,,,,,,,,,,C3,,,,,,,,,,,-21.59,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca angustissima
-760,Asparagacaeae,,,,Yucca,baccata,,,,,,,,,,,,,,,,,,,,,,,-14.07,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca baccata
-761,Asparagacaeae,,,,Yucca,baileyi,,,,,,,,,,,,C3,,,,,,,,,,,-22.29,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca baileyi
-762,Asparagacaeae,,,,Yucca,brevifolia,,,,,,,,,,,,C3,,,,,,,,,,,-20.12,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca brevifolia
-763,Asparagacaeae,,,,Yucca,brevifolia,,,,,,,,,,,,C3,,,,,,,,,,,-22.92,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca brevifolia
-764,Asparagacaeae,,,,Yucca,capensis,,,,,,,,,,,,CAM,,,,,,,,,,,-14.74,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca capensis
-765,Asparagacaeae,,,,Yucca,carnerosana,,,,,,,,,,,,CAM,,,,,,,,,,,-13.75,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca carnerosana
-766,Asparagacaeae,,,,Yucca,constricta,,,,,,,,,,,,C3,,,,,,,,,,,-25.84,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca constricta
-767,Asparagacaeae,,,,Yucca,elata,,,,,,,,,,,,C3,,,,,,,,,,,-23.25,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca elata
-768,Asparagacaeae,,,,Yucca,elephantipes,,,,,,,,,,,,CAM,,,,,,,,,,,-12.88,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca elephantipes
-769,Asparagacaeae,,,,Yucca,filamentosa,,,,,,,,,,,,C3,,,,,,,,,,,-28.19,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca filamentosa
-770,Asparagacaeae,,,,Yucca,glauca,,,,,,,,,,,,,,,,,,,,,,,-24.25,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca glauca
-771,Asparagacaeae,,,,Yucca,jaliscensis,,,,,,,,,,,,CAM,,,,,,,,,,,-17.0,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca jaliscensis
-772,Asparagacaeae,,,,Yucca,linearifolia,,,,,,,,,,,,CAM,,,,,,,,,,,-15.63,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca linearifolia
-773,Asparagacaeae,,,,Yucca,pallida,,,,,,,,,,,,C3,,,,,,,,,,,-24.29,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca pallida
-774,Asparagacaeae,,,,Yucca,queretaroensis,,,,,,,,,,,,CAM,,,,,,,,,,,-15.1,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca queretaroensis
-775,Asparagacaeae,,,,Yucca,queretaroensis,,,,,,,,,,,,CAM,,,,,,,,,,,-15.24,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca queretaroensis
-776,Asparagacaeae,,,,Yucca,schidigera,,,,,,,,,,,,CAM,,,,,,,,,,,-12.98,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca schidigera
-777,Asparagacaeae,,,,Yucca,schotti,,,,,,,,,,,,CAM,,,,,,,,,,,-14.3,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca schotti
-778,Asparagacaeae,,,,Yucca,schotti,,,,,,,,,,,,CAM,,,,,,,,,,,-14.3,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca schotti
+758,Asparagaceae,,,,Yucca,aloifolia,,,,,,,,,,,,CAM,,,,,,,,,,,-15.33,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca aloifolia
+759,Asparagaceae,,,,Yucca,angustissima,,,,,,,,,,,,C3,,,,,,,,,,,-21.59,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca angustissima
+760,Asparagaceae,,,,Yucca,baccata,,,,,,,,,,,,,,,,,,,,,,,-14.07,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca baccata
+761,Asparagaceae,,,,Yucca,baileyi,,,,,,,,,,,,C3,,,,,,,,,,,-22.29,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca baileyi
+762,Asparagaceae,,,,Yucca,brevifolia,,,,,,,,,,,,C3,,,,,,,,,,,-20.12,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca brevifolia
+763,Asparagaceae,,,,Yucca,brevifolia,,,,,,,,,,,,C3,,,,,,,,,,,-22.92,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca brevifolia
+764,Asparagaceae,,,,Yucca,capensis,,,,,,,,,,,,CAM,,,,,,,,,,,-14.74,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca capensis
+765,Asparagaceae,,,,Yucca,carnerosana,,,,,,,,,,,,CAM,,,,,,,,,,,-13.75,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca carnerosana
+766,Asparagaceae,,,,Yucca,constricta,,,,,,,,,,,,C3,,,,,,,,,,,-25.84,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca constricta
+767,Asparagaceae,,,,Yucca,elata,,,,,,,,,,,,C3,,,,,,,,,,,-23.25,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca elata
+768,Asparagaceae,,,,Yucca,elephantipes,,,,,,,,,,,,CAM,,,,,,,,,,,-12.88,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca elephantipes
+769,Asparagaceae,,,,Yucca,filamentosa,,,,,,,,,,,,C3,,,,,,,,,,,-28.19,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca filamentosa
+770,Asparagaceae,,,,Yucca,glauca,,,,,,,,,,,,,,,,,,,,,,,-24.25,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca glauca
+771,Asparagaceae,,,,Yucca,jaliscensis,,,,,,,,,,,,CAM,,,,,,,,,,,-17.0,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca jaliscensis
+772,Asparagaceae,,,,Yucca,linearifolia,,,,,,,,,,,,CAM,,,,,,,,,,,-15.63,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca linearifolia
+773,Asparagaceae,,,,Yucca,pallida,,,,,,,,,,,,C3,,,,,,,,,,,-24.29,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca pallida
+774,Asparagaceae,,,,Yucca,queretaroensis,,,,,,,,,,,,CAM,,,,,,,,,,,-15.1,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca queretaroensis
+775,Asparagaceae,,,,Yucca,queretaroensis,,,,,,,,,,,,CAM,,,,,,,,,,,-15.24,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca queretaroensis
+776,Asparagaceae,,,,Yucca,schidigera,,,,,,,,,,,,CAM,,,,,,,,,,,-12.98,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca schidigera
+777,Asparagaceae,,,,Yucca,schotti,,,,,,,,,,,,CAM,,,,,,,,,,,-14.3,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca schotti
+778,Asparagaceae,,,,Yucca,schotti,,,,,,,,,,,,CAM,,,,,,,,,,,-14.3,,,,,,,,,,,,,,,,Heyduk et al. 2016,,,,,,,Yucca schotti
 779,Bromeliaceae,Pitcairnioideae,,,Pitcairnia,integrifolia,,,,,,,,,Terrestrial and saxicolous,,,,,,,,,,,,,,-32.9,,,,,,,,,,,,,,,Leaf,Griffiths et al. 1983,,,,,,,Pitcairnia integrifolia
 780,Bromeliaceae,Tillandsioideae,,,Tillandsia,fendleri,,,,,,,,,Epiphytic,,,,,,,,,,,,,,-31.8,,,,,,,,,,,,,,,Leaf,Griffiths et al. 1983,,,,,,,Tillandsia fendleri
 781,Bromeliaceae,Tillandsioideae,,,Tillandsia,complanata,,,,,,,,,Epiphytic,,,,,,,,,,,,,,-30.7,,,,,,,,,,,,,,,Leaf,Griffiths et al. 1983,,,,,,,Tillandsia complanata
@@ -926,7 +926,7 @@ Name: 849, dtype: object"
 922,Commelinaceae,,,,Pollia,crispata,,,,,,,,,Terrestrial,,,,,,,,,,,,,,-27.5,,,,,,,,280.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Pollia crispata
 923,Lilliaceae,,,,Geitonoplesium,cymosum,,,,,,,,,Climber,,,,,,,,,,,,,,-29.2,,,,,,,,180.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Geitonoplesium cymosum
 924,Lilliaceae,,,,Geitonoplesium,cymosum,,,,,,,,,Climber,,,,,,,,,,,,,,-26.1,,,,,,,,2200.0,,,,,,,Stem (green),Winter et al. (1983),,,,,,,Geitonoplesium cymosum
-925,Orchidaceae,,,,Acianthus,exsertus,,,,,,,,,Terrestrial,,,,,,,,,,,,,,-28.2,,,,,,,,240.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Acianthus exsertus
+925,Orchidaceae,Orchidoideae,,,Acianthus,exsertus,,,,,,,,,Terrestrial,,,,,,,,,,,,,,-28.2,,,,,,,,240.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Acianthus exsertus
 926,Orchidaceae,Epidendroideae,Vandeae,Dendrobiinae,Bulbophyllum,aurantiacum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-12.4,,,,,,,,2300.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Bulbophyllum aurantiacum
 927,Orchidaceae,Epidendroideae,Vandeae,Dendrobiinae,Bulbophyllum,baileyi,,,,,,,,,Lithophyte,,,,,,,,,,,,,,-16.8,,,,,,,,1870.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Bulbophyllum baileyi
 928,Orchidaceae,Epidendroideae,Vandeae,Dendrobiinae,Bulbophyllum,baileyi,,,,,,,,,Lithophyte,,,,,,,,,,,,,,-14.9,,,,,,,,,,,,,,,Pseudobulb,Winter et al. (1983),,,,,,,Bulbophyllum baileyi
@@ -948,76 +948,76 @@ Name: 849, dtype: object"
 944,Orchidaceae,,,,Cadetia,taylori,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-23.7,,,,,,,,970.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Cadetia taylori
 945,Orchidaceae,,,,Cadetia,wariana,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-16.1,,,,,,,,1650.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Cadetia wariana
 946,Orchidaceae,Epidendroideae,Vandeae,Collabiinae,Calanthe,triplicata,,,,,,,,,Lithophyte terrestrial,,,,,,,,,,,,,,-27.1,,,,,,,,300.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Calanthe triplicata
-947,Orchidaceae,,,,Chiloschista,phyllorhiza,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-14.5,,,,,,,,1550.0,,,,,,,Root,Winter et al. (1983),,,,,,,Chiloschista phyllorhiza
-948,Orchidaceae,,,,Chiloschista,phyllorhiza,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-17.5,,,,,,,,,,,,,,,Root,Winter et al. (1983),,,,,,,Chiloschista phyllorhiza
-949,Orchidaceae,,,,Cymbidium,canaliculatum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-18.7,,,,,,,,1610.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Cymbidium canaliculatum
-950,Orchidaceae,,,,Cymbidium,canaliculatum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-16.8,,,,,,,,,,,,,,,Pseudobulb,Winter et al. (1983),,,,,,,Cymbidium canaliculatum
-951,Orchidaceae,,,,Cymbidium,madidum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-27.0,,,,,,,,650.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Cymbidium madidum
-952,Orchidaceae,,,,Cymbidium,suave,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-27.0,,,,,,,,590.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Cymbidium suave
-953,Orchidaceae,,,,Dendrobium,adae,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-26.3,,,,,,,,400.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium adae
-954,Orchidaceae,,,,Dendrobium,adae,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-23.6,,,,,,,,,,,,,,,Stem (swollen),Winter et al. (1983),,,,,,,Dendrobium adae
-955,Orchidaceae,,,,Dendrobium,agrostophyllum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-27.7,,,,,,,,270.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium agrostophyllum
-956,Orchidaceae,,,,Dendrobium,agrostophyllum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-24.9,,,,,,,,,,,,,,,Stem (swollen),Winter et al. (1983),,,,,,,Dendrobium agrostophyllum
-957,Orchidaceae,,,,Dendrobium,antennatum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-14.1,,,,,,,,1670.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium antennatum
-958,Orchidaceae,,,,Dendrobium,baileyi,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-26.7,,,,,,,,270.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium baileyi
-959,Orchidaceae,,,,Dendrobium,baileyi,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-27.6,,,,,,,,,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium baileyi
-960,Orchidaceae,,,,Dendrobium,baileyi,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-32.0,,,,,,,,270.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium baileyi
-961,Orchidaceae,,,,Dendrobium,baileyi,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-32.5,,,,,,,,,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium baileyi
-962,Orchidaceae,,,,Dendrobium,beckleri,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-14.7,,,,,,,,4400.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium beckleri
-963,Orchidaceae,,,,Dendrobium,bifalce,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-18.1,,,,,,,,1020.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium bifalce
-964,Orchidaceae,,,,Dendrobium,bigibbum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-11.9,,,,,,,,790.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium bigibbum
-965,Orchidaceae,,,,Dendrobium,canaliculatum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-13.1,,,,,,,,2400.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium canaliculatum
-966,Orchidaceae,,,,Dendrobium,canaliculatum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-10.5,,,,,,,,,,,,,,,Stem (swollen),Winter et al. (1983),,,,,,,Dendrobium canaliculatum
-967,Orchidaceae,,,,Dendrobium,cancroides,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.8,,,,,,,,530.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium cancroides
-968,Orchidaceae,,,,Dendrobium,cucumerium,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-13.5,,,,,,,,2800.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium cucumerium
-969,Orchidaceae,,,,Dendrobium,dicuphum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-14.1,,,,,,,,900.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium dicuphum
-970,Orchidaceae,,,,Dendrobium,discolor,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-13.8,,,,,,,,1190.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium discolor
-971,Orchidaceae,,,,Dendrobium,fleckeri,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-25.0,,,,,,,,440.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium fleckeri
-972,Orchidaceae,,,,Dendrobium,gracilicaule,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-18.3,,,,,,,,390.0,,,,,,,Leaf  (young),Winter et al. (1983),,,,,,,Dendrobium gracilicaule
-973,Orchidaceae,,,,Dendrobium,gracilicaule,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-25.2,,,,,,,,590.0,,,,,,,Leaf  (old),Winter et al. (1983),,,,,,,Dendrobium gracilicaule
-974,Orchidaceae,,,,Dendrobium,gracilicaule,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-21.1,,,,,,,,550.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium gracilicaule
-975,Orchidaceae,,,,Dendrobium,johannis,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-13.9,,,,,,,,1100.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium johannis
-976,Orchidaceae,,,,Dendrobium,lichenastrum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-13.4,,,,,,,,4150.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium lichenastrum
-977,Orchidaceae,,,,Dendrobium,lichenastrum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-14.4,,,,,,,,4070.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium lichenastrum
-978,Orchidaceae,,,,Dendrobium,lichenastrum,prenticei,,,,,,,,Epiphyte,,,,,,,,,,,,,,-12.6,,,,,,,,4450.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium lichenastrum
-979,Orchidaceae,,,,Dendrobium,linguiforme,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-11.9,,,,,,,,6600.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium linguiforme
-980,Orchidaceae,,,,Dendrobium,linguiforme,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-14.5,,,,,,,,7400.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium linguiforme
-981,Orchidaceae,,,,Dendrobium,luteocilium,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-18.7,,,,,,,,1520.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium luteocilium
-982,Orchidaceae,,,,Dendrobium,malbrownii,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-25.8,,,,,,,,300.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium malbrownii
-983,Orchidaceae,,,,Dendrobium,monophyllum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-25.2,,,,,,,,580.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium monophyllum
-984,Orchidaceae,,,,Dendrobium,nindii,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-13.5,,,,,,,,1700.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium nindii
-985,Orchidaceae,,,,Dendrobium,nobile,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-25.1,,,,,,,,550.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium nobile
-986,Orchidaceae,,,,Dendrobium,pugioniforme,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-15.4,,,,,,,,3000.0,,,,,,,Leaf (sun),Winter et al. (1983),,,,,,,Dendrobium pugioniforme
-987,Orchidaceae,,,,Dendrobium,pugioniforme,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-13.9,,,,,,,,2000.0,,,,,,,Leaf (shade),Winter et al. (1983),,,,,,,Dendrobium pugioniforme
-988,Orchidaceae,,,,Dendrobium,racemosum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-14.5,,,,,,,,5150.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium racemosum
-989,Orchidaceae,,,,Dendrobium,rigidum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-15.0,,,,,,,,4700.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium rigidum
-990,Orchidaceae,,,,Dendrobium,ruppianum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-26.8,,,,,,,,600.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Dendrobium ruppianum
-991,Orchidaceae,,,,Dendrobium,ruppianum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-24.2,,,,,,,,,,,,,,,Stem (swollen),Winter et al. 1983,,,,,,,Dendrobium ruppianum
-992,Orchidaceae,,,,Dendrobium,ruppianum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.5,,,,,,,,630.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Dendrobium ruppianum
-993,Orchidaceae,,,,Dendrobium,ruppianum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-27.9,,,,,,,,,,,,,,,Swollen stem,Winter et al. 1983,,,,,,,Dendrobium ruppianum
-994,Orchidaceae,,,,Dendrobium,speciosum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-14.5,,,,,,,,1400.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Dendrobium speciosum
-995,Orchidaceae,,,,Dendrobium,speciosum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-14.8,,,,,,,,1200.0,,,,,,,Leaf (shade),Winter et al. 1983,,,,,,,Dendrobium speciosum
-996,Orchidaceae,,,,Dendrobium,speciosum,,,,,,,,,Lithophyte,,,,,,,,,,,,,,-15.3,,,,,,,,2900.0,,,,,,,Leaf (sun),Winter et al. 1983,,,,,,,Dendrobium speciosum
-997,Orchidaceae,,,,Dendrobium,speciosum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-15.9,,,,,,,,1550.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Dendrobium speciosum
-998,Orchidaceae,,,,Dendrobium,smilliae,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-25.9,,,,,,,,340.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Dendrobium smilliae
-999,Orchidaceae,,,,Dendrobium,teretifolium,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-15.9,,,,,,,,3100.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Dendrobium teretifolium
-1000,Orchidaceae,,,,Dendrobium,teretifolium,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-15.8,,,,,,,,3950.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Dendrobium teretifolium
-1001,Orchidaceae,,,,Dendrobium,tetragonum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-18.2,,,,,,,,470.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Dendrobium tetragonum
-1002,Orchidaceae,,,,Dendrobium,tetragonum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-15.7,,,,,,,,,,,,,,,Stem (swollen),Winter et al. 1983,,,,,,,Dendrobium tetragonum
-1003,Orchidaceae,,,,Dendrobium,toressae,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-17.6,,,,,,,,1930.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Dendrobium toressae
-1004,Orchidaceae,,,,Dendrobium,tozerensis,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-25.4,,,,,,,,300.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Dendrobium tozerensis
-1005,Orchidaceae,,,,Dendrobium,wassellii,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-13.1,,,,,,,,8900.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Dendrobium wassellii
+947,Orchidaceae,Vandoideae,,,Chiloschista,phyllorhiza,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-14.5,,,,,,,,1550.0,,,,,,,Root,Winter et al. (1983),,,,,,,Chiloschista phyllorhiza
+948,Orchidaceae,Vandoideae,,,Chiloschista,phyllorhiza,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-17.5,,,,,,,,,,,,,,,Root,Winter et al. (1983),,,,,,,Chiloschista phyllorhiza
+949,Orchidaceae,Vandoideae,,,Cymbidium,canaliculatum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-18.7,,,,,,,,1610.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Cymbidium canaliculatum
+950,Orchidaceae,Vandoideae,,,Cymbidium,canaliculatum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-16.8,,,,,,,,,,,,,,,Pseudobulb,Winter et al. (1983),,,,,,,Cymbidium canaliculatum
+951,Orchidaceae,Vandoideae,,,Cymbidium,madidum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-27.0,,,,,,,,650.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Cymbidium madidum
+952,Orchidaceae,Vandoideae,,,Cymbidium,suave,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-27.0,,,,,,,,590.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Cymbidium suave
+953,Orchidaceae,Epidendroideae,,,Dendrobium,adae,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-26.3,,,,,,,,400.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium adae
+954,Orchidaceae,Epidendroideae,,,Dendrobium,adae,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-23.6,,,,,,,,,,,,,,,Stem (swollen),Winter et al. (1983),,,,,,,Dendrobium adae
+955,Orchidaceae,Epidendroideae,,,Dendrobium,agrostophyllum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-27.7,,,,,,,,270.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium agrostophyllum
+956,Orchidaceae,Epidendroideae,,,Dendrobium,agrostophyllum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-24.9,,,,,,,,,,,,,,,Stem (swollen),Winter et al. (1983),,,,,,,Dendrobium agrostophyllum
+957,Orchidaceae,Epidendroideae,,,Dendrobium,antennatum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-14.1,,,,,,,,1670.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium antennatum
+958,Orchidaceae,Epidendroideae,,,Dendrobium,baileyi,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-26.7,,,,,,,,270.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium baileyi
+959,Orchidaceae,Epidendroideae,,,Dendrobium,baileyi,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-27.6,,,,,,,,,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium baileyi
+960,Orchidaceae,Epidendroideae,,,Dendrobium,baileyi,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-32.0,,,,,,,,270.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium baileyi
+961,Orchidaceae,Epidendroideae,,,Dendrobium,baileyi,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-32.5,,,,,,,,,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium baileyi
+962,Orchidaceae,Epidendroideae,,,Dendrobium,beckleri,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-14.7,,,,,,,,4400.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium beckleri
+963,Orchidaceae,Epidendroideae,,,Dendrobium,bifalce,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-18.1,,,,,,,,1020.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium bifalce
+964,Orchidaceae,Epidendroideae,,,Dendrobium,bigibbum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-11.9,,,,,,,,790.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium bigibbum
+965,Orchidaceae,Epidendroideae,,,Dendrobium,canaliculatum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-13.1,,,,,,,,2400.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium canaliculatum
+966,Orchidaceae,Epidendroideae,,,Dendrobium,canaliculatum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-10.5,,,,,,,,,,,,,,,Stem (swollen),Winter et al. (1983),,,,,,,Dendrobium canaliculatum
+967,Orchidaceae,Epidendroideae,,,Dendrobium,cancroides,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.8,,,,,,,,530.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium cancroides
+968,Orchidaceae,Epidendroideae,,,Dendrobium,cucumerium,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-13.5,,,,,,,,2800.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium cucumerium
+969,Orchidaceae,Epidendroideae,,,Dendrobium,dicuphum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-14.1,,,,,,,,900.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium dicuphum
+970,Orchidaceae,Epidendroideae,,,Dendrobium,discolor,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-13.8,,,,,,,,1190.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium discolor
+971,Orchidaceae,Epidendroideae,,,Dendrobium,fleckeri,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-25.0,,,,,,,,440.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium fleckeri
+972,Orchidaceae,Epidendroideae,,,Dendrobium,gracilicaule,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-18.3,,,,,,,,390.0,,,,,,,Leaf  (young),Winter et al. (1983),,,,,,,Dendrobium gracilicaule
+973,Orchidaceae,Epidendroideae,,,Dendrobium,gracilicaule,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-25.2,,,,,,,,590.0,,,,,,,Leaf  (old),Winter et al. (1983),,,,,,,Dendrobium gracilicaule
+974,Orchidaceae,Epidendroideae,,,Dendrobium,gracilicaule,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-21.1,,,,,,,,550.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium gracilicaule
+975,Orchidaceae,Epidendroideae,,,Dendrobium,johannis,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-13.9,,,,,,,,1100.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium johannis
+976,Orchidaceae,Epidendroideae,,,Dendrobium,lichenastrum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-13.4,,,,,,,,4150.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium lichenastrum
+977,Orchidaceae,Epidendroideae,,,Dendrobium,lichenastrum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-14.4,,,,,,,,4070.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium lichenastrum
+978,Orchidaceae,Epidendroideae,,,Dendrobium,lichenastrum,prenticei,,,,,,,,Epiphyte,,,,,,,,,,,,,,-12.6,,,,,,,,4450.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium lichenastrum
+979,Orchidaceae,Epidendroideae,,,Dendrobium,linguiforme,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-11.9,,,,,,,,6600.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium linguiforme
+980,Orchidaceae,Epidendroideae,,,Dendrobium,linguiforme,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-14.5,,,,,,,,7400.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium linguiforme
+981,Orchidaceae,Epidendroideae,,,Dendrobium,luteocilium,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-18.7,,,,,,,,1520.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium luteocilium
+982,Orchidaceae,Epidendroideae,,,Dendrobium,malbrownii,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-25.8,,,,,,,,300.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium malbrownii
+983,Orchidaceae,Epidendroideae,,,Dendrobium,monophyllum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-25.2,,,,,,,,580.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium monophyllum
+984,Orchidaceae,Epidendroideae,,,Dendrobium,nindii,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-13.5,,,,,,,,1700.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium nindii
+985,Orchidaceae,Epidendroideae,,,Dendrobium,nobile,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-25.1,,,,,,,,550.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium nobile
+986,Orchidaceae,Epidendroideae,,,Dendrobium,pugioniforme,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-15.4,,,,,,,,3000.0,,,,,,,Leaf (sun),Winter et al. (1983),,,,,,,Dendrobium pugioniforme
+987,Orchidaceae,Epidendroideae,,,Dendrobium,pugioniforme,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-13.9,,,,,,,,2000.0,,,,,,,Leaf (shade),Winter et al. (1983),,,,,,,Dendrobium pugioniforme
+988,Orchidaceae,Epidendroideae,,,Dendrobium,racemosum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-14.5,,,,,,,,5150.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium racemosum
+989,Orchidaceae,Epidendroideae,,,Dendrobium,rigidum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-15.0,,,,,,,,4700.0,,,,,,,Leaf,Winter et al. (1983),,,,,,,Dendrobium rigidum
+990,Orchidaceae,Epidendroideae,,,Dendrobium,ruppianum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-26.8,,,,,,,,600.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Dendrobium ruppianum
+991,Orchidaceae,Epidendroideae,,,Dendrobium,ruppianum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-24.2,,,,,,,,,,,,,,,Stem (swollen),Winter et al. 1983,,,,,,,Dendrobium ruppianum
+992,Orchidaceae,Epidendroideae,,,Dendrobium,ruppianum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.5,,,,,,,,630.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Dendrobium ruppianum
+993,Orchidaceae,Epidendroideae,,,Dendrobium,ruppianum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-27.9,,,,,,,,,,,,,,,Swollen stem,Winter et al. 1983,,,,,,,Dendrobium ruppianum
+994,Orchidaceae,Epidendroideae,,,Dendrobium,speciosum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-14.5,,,,,,,,1400.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Dendrobium speciosum
+995,Orchidaceae,Epidendroideae,,,Dendrobium,speciosum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-14.8,,,,,,,,1200.0,,,,,,,Leaf (shade),Winter et al. 1983,,,,,,,Dendrobium speciosum
+996,Orchidaceae,Epidendroideae,,,Dendrobium,speciosum,,,,,,,,,Lithophyte,,,,,,,,,,,,,,-15.3,,,,,,,,2900.0,,,,,,,Leaf (sun),Winter et al. 1983,,,,,,,Dendrobium speciosum
+997,Orchidaceae,Epidendroideae,,,Dendrobium,speciosum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-15.9,,,,,,,,1550.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Dendrobium speciosum
+998,Orchidaceae,Epidendroideae,,,Dendrobium,smilliae,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-25.9,,,,,,,,340.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Dendrobium smilliae
+999,Orchidaceae,Epidendroideae,,,Dendrobium,teretifolium,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-15.9,,,,,,,,3100.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Dendrobium teretifolium
+1000,Orchidaceae,Epidendroideae,,,Dendrobium,teretifolium,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-15.8,,,,,,,,3950.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Dendrobium teretifolium
+1001,Orchidaceae,Epidendroideae,,,Dendrobium,tetragonum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-18.2,,,,,,,,470.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Dendrobium tetragonum
+1002,Orchidaceae,Epidendroideae,,,Dendrobium,tetragonum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-15.7,,,,,,,,,,,,,,,Stem (swollen),Winter et al. 1983,,,,,,,Dendrobium tetragonum
+1003,Orchidaceae,Epidendroideae,,,Dendrobium,toressae,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-17.6,,,,,,,,1930.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Dendrobium toressae
+1004,Orchidaceae,Epidendroideae,,,Dendrobium,tozerensis,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-25.4,,,,,,,,300.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Dendrobium tozerensis
+1005,Orchidaceae,Epidendroideae,,,Dendrobium,wassellii,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-13.1,,,,,,,,8900.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Dendrobium wassellii
 1006,Orchidaceae,,,,Diplocaulobium,glabrum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-27.7,,,,,,,,,,,,,,,Leaf,Winter et al. 1983,,,,,,,Diplocaulobium glabrum
 1007,Orchidaceae,,,,Dipodium,ensifolium,,,,,,,,,Terrestrial,,,,,,,,,,,,,,-26.3,,,,,,,,430.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Dipodium ensifolium
 1008,Orchidaceae,,,,Dipodium,pandanum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-23.5,,,,,,,,600.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Dipodium pandanum
-1009,Orchidaceae,,,,Eria,eraeoides,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.9,,,,,,,,480.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Eria eraeoides
-1010,Orchidaceae,,,,Eria,eraeoides,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.7,,,,,,,,,,,,,,,Stem (swollen),Winter et al. 1983,,,,,,,Eria eraeoides
-1011,Orchidaceae,,,,Eria,fitzalani,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.3,,,,,,,,700.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Eria fitzalani
-1012,Orchidaceae,,,,Eria,fitzalani,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.4,,,,,,,,,,,,,,,Stem (swollen),Winter et al. 1983,,,,,,,Eria fitzalani
-1013,Orchidaceae,,,,Eria,irukandjiana,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-19.8,,,,,,,,2600.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Eria irukandjiana
+1009,Orchidaceae,Epidendroideae,,,Eria,eraeoides,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.9,,,,,,,,480.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Eria eraeoides
+1010,Orchidaceae,Epidendroideae,,,Eria,eraeoides,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.7,,,,,,,,,,,,,,,Stem (swollen),Winter et al. 1983,,,,,,,Eria eraeoides
+1011,Orchidaceae,Epidendroideae,,,Eria,fitzalani,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.3,,,,,,,,700.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Eria fitzalani
+1012,Orchidaceae,Epidendroideae,,,Eria,fitzalani,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.4,,,,,,,,,,,,,,,Stem (swollen),Winter et al. 1983,,,,,,,Eria fitzalani
+1013,Orchidaceae,Epidendroideae,,,Eria,irukandjiana,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-19.8,,,,,,,,2600.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Eria irukandjiana
 1014,Orchidaceae,,,,Flickingeria,comata,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-23.5,,,,,,,,640.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Flickingeria comata
 1015,Orchidaceae,,,,Flickingeria,convexa,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-13.0,,,,,,,,,,,,,,,Leaf,Winter et al. 1983,,,,,,,Flickingeria convexa
-1016,Orchidaceae,Orchidoideae,Cranichideae,Goodyerinae,Goodyera,viridiflora,,,,,,,,,Lithophyte terrestrial,,,,,,,,,,,,,,-33.6,,,,,,,,,,,,,,,Leaf,Winter et al. 1983,,,,,,,Goodyera viridiflora
+1016,Orchidaceae,Spiranthoideae,Cranichideae,Goodyerinae,Goodyera,viridiflora,,,,,,,,,Lithophyte terrestrial,,,,,,,,,,,,,,-33.6,,,,,,,,,,,,,,,Leaf,Winter et al. 1983,,,,,,,Goodyera viridiflora
 1017,Orchidaceae,Epidendroideae,Malaxideae,,Liparis,bracteata,,,,,,,,,Lithophyte,,,,,,,,,,,,,,-30.2,,,,,,,,440.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Liparis bracteata
 1018,Orchidaceae,Epidendroideae,Malaxideae,,Liparis,bracteata,,,,,,,,,Lithophyte,,,,,,,,,,,,,,-27.5,,,,,,,,,,,,,,,Pseudobulb,Winter et al. 1983,,,,,,,Liparis bracteata
 1019,Orchidaceae,Epidendroideae,Malaxideae,,Liparis,coelogynoides,,,,,,,,,Epiphyte lithophyte,,,,,,,,,,,,,,-26.3,,,,,,,,450.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Liparis coelogynoides
@@ -1040,7 +1040,7 @@ Name: 849, dtype: object"
 1036,Orchidaceae,,,,Plectorrhiza,tridentata,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-15.4,,,,,,,,800.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Plectorrhiza tridentata
 1037,Orchidaceae,,,,Podochilus,australiensis,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-31.1,,,,,,,,390.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Podochilus australiensis
 1038,Orchidaceae,,,,Potamocalpa,macphersonii,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-16.3,,,,,,,,,,,,,,,Leaf,Winter et al. 1983,,,,,,,Potamocalpa macphersonii
-1039,Orchidaceae,,,,Pterostylis,obtusa,,,,,,,,,Terrestrial,,,,,,,,,,,,,,-29.1,,,,,,,,220.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Pterostylis obtusa
+1039,Orchidaceae,Orchidoideae,,,Pterostylis,obtusa,,,,,,,,,Terrestrial,,,,,,,,,,,,,,-29.1,,,,,,,,220.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Pterostylis obtusa
 1040,Orchidaceae,,,,Rhinerrhiza,divitiflora,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-15.5,,,,,,,,680.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Rhinerrhiza divitiflora
 1041,Orchidaceae,,,,Rhinerrhiza,divitiflora,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-14.2,,,,,,,,1100.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Rhinerrhiza divitiflora
 1042,Orchidaceae,,,,Rhynchophreatia,micrantha,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-28.2,,,,,,,,280.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Rhynchophreatia micrantha
@@ -1059,7 +1059,7 @@ Name: 849, dtype: object"
 1055,Orchidaceae,,,,Schoenorchis,densiflora,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-14.8,,,,,,,,1650.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Schoenorchis densiflora
 1056,Orchidaceae,,,,Taeniophyllum,malianum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-15.8,,,,,,,,,,,,,,,Root,Winter et al. 1983,,,,,,,Taeniophyllum malianum
 1057,Orchidaceae,,,,Thelasis,carinata,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-34.0,,,,,,,,,,,,,,,Leaf,Winter et al. 1983,,,,,,,Thelasis carinata
-1058,Orchidaceae,,,,Thelymitra,ixioides,,,,,,,,,Terrestrial,,,,,,,,,,,,,,-27.1,,,,,,,,650.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Thelymitra ixioides
+1058,Orchidaceae,Orchidoideae,,,Thelymitra,ixioides,,,,,,,,,Terrestrial,,,,,,,,,,,,,,-27.1,,,,,,,,650.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Thelymitra ixioides
 1059,Orchidaceae,,,,Thrixspermum,congestum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-16.7,,,,,,,,700.0,,,,,,,Leaf,Winter et al. 1983,,,,,,,Thrixspermum congestum
 1060,Orchidaceae,,,,Thrixspermum,congestum,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-14.9,,,,,,,,,,,,,,,Leaf,Winter et al. 1983,,,,,,,Thrixspermum congestum
 1061,Orchidaceae,,,,Trachoma,rhopalorrachis,,,,,,,,,Epiphyte,,,,,,,,,,,,,,-13.6,,,,,,,,,,,,,,,Leaf,Winter et al. 1983,,,,,,,Trachoma rhopalorrachis
@@ -4433,10 +4433,10 @@ Name: 849, dtype: object"
 4429,Bromeliaceae,Tillandsioideae,,,Vriesea,grandiflora,,,0.1869,,,,,,epiphyte,,,,,,,,,,,,,,-30.02,,,,,,,,417.0,,,,,,,,Petter et al (2015),,,,48.21,27.16,,Vriesea grandiflora
 4430,Bromeliaceae,Tillandsioideae,,,Vriesea,grandiflora,,,0.1984,,,,,,epiphyte,,,,,,,,,,,,,,-28.63,,,,,,,,307.0,,,,,,,,Petter et al (2015),,,,47.76,32.21,,Vriesea grandiflora
 4431,Orchidaceae,Vanilloideae,Pogonieae,,Cleistes,rosea,,,,,,,,,,,,,,,,,,,,,,,-28.8,,,,,,,,,,,,,,,,Silvera et al (2010),,,,,,,Cleistes rosea
-4432,Orchidaceae,Vanilloideae,Vanilleae,,Vanilla,inodora,,,,,,,,,,,,,,,,,,,,,,,-29.0,,,,,,,,,,,,,,,,Silvera et al (2010),,,,,,,Vanilla inodora
-4433,Orchidaceae,Vanilloideae,Vanilleae,,Vanilla,planifolia,,,,,,,,,,,,,,,,,,,,,,,-15.3,,,,,,,,,,,,,,,,Silvera et al (2010),,,,,,,Vanilla planifolia
-4434,Orchidaceae,Vanilloideae,Vanilleae,,Vanilla,pompona,,,,,,,,,,,,,,,,,,,,,,,-15.9,,,,,,,,,,,,,,,,Silvera et al (2010),,,,,,,Vanilla pompona
-4435,Orchidaceae,Vanilloideae,Vanilleae,,Vanilla,trigonocarpa,,,,,,,,,,,,,,,,,,,,,,,-21.7,,,,,,,,,,,,,,,,Silvera et al (2010),,,,,,,Vanilla trigonocarpa
+4432,Orchidaceae,Epidendroideae,Vanilleae,,Vanilla,inodora,,,,,,,,,,,,,,,,,,,,,,,-29.0,,,,,,,,,,,,,,,,Silvera et al (2010),,,,,,,Vanilla inodora
+4433,Orchidaceae,Epidendroideae,Vanilleae,,Vanilla,planifolia,,,,,,,,,,,,,,,,,,,,,,,-15.3,,,,,,,,,,,,,,,,Silvera et al (2010),,,,,,,Vanilla planifolia
+4434,Orchidaceae,Epidendroideae,Vanilleae,,Vanilla,pompona,,,,,,,,,,,,,,,,,,,,,,,-15.9,,,,,,,,,,,,,,,,Silvera et al (2010),,,,,,,Vanilla pompona
+4435,Orchidaceae,Epidendroideae,Vanilleae,,Vanilla,trigonocarpa,,,,,,,,,,,,,,,,,,,,,,,-21.7,,,,,,,,,,,,,,,,Silvera et al (2010),,,,,,,Vanilla trigonocarpa
 4436,Orchidaceae,Vanilloideae,Vanilleae,,Phragmipedium,humboldtii,,,,,,,,,,,,,,,,,,,,,,,-26.6,,,,,,,,,,,,,,,,Silvera et al (2010),,,,,,,Phragmipedium humboldtii
 4437,Orchidaceae,Vanilloideae,Vanilleae,,Phragmipedium,longifolium,,,,,,,,,,,,,,,,,,,,,,,-31.7,,,,,,,,,,,,,,,,Silvera et al (2010),,,,,,,Phragmipedium longifolium
 4438,Orchidaceae,Vanilloideae,Vanilleae,,Phragmipedium,warszewiczianum,,,,,,,,,,,,,,,,,,,,,,,-26.8,,,,,,,,,,,,,,,,Silvera et al (2010),,,,,,,Phragmipedium warszewiczianum
@@ -4444,9 +4444,9 @@ Name: 849, dtype: object"
 4440,Orchidaceae,Orchidoideae,Cranichideae,Goodyerinae,Aspidogyne,roseoalba,,,,,,,,,,,,,,,,,,,,,,,-34.6,,,,,,,,,,,,,,,,Silvera et al (2010),,,,,,,Aspidogyne roseoalba
 4441,Orchidaceae,Orchidoideae,Cranichideae,Goodyerinae,Aspidogyne,tuerkheimii,,,,,,,,,,,,,,,,,,,,,,,-34.8,,,,,,,,,,,,,,,,Silvera et al (2010),,,,,,,Aspidogyne tuerkheimii
 4442,Orchidaceae,Orchidoideae,Cranichideae,Goodyerinae,Erythrodes,sp.,,,,,,,,,,,,,,,,,,,,,,,-28.3,,,,,,,,,,,,,,,,Silvera et al (2010),,,,,,,Erythrodes sp.
-4443,Orchidaceae,Orchidoideae,Cranichideae,Goodyerinae,Goodyera,erosa,,,,,,,,,,,,,,,,,,,,,,,-30.7,,,,,,,,,,,,,,,,Silvera et al (2010),,,,,,,Goodyera erosa
-4444,Orchidaceae,Orchidoideae,Cranichideae,Goodyerinae,Goodyera,fimbrilabia,,,,,,,,,,,,,,,,,,,,,,,-33.8,,,,,,,,,,,,,,,,Silvera et al (2010),,,,,,,Goodyera fimbrilabia
-4445,Orchidaceae,Orchidoideae,Cranichideae,Goodyerinae,Goodyera,micrantha,,,,,,,,,,,,,,,,,,,,,,,-36.5,,,,,,,,,,,,,,,,Silvera et al (2010),,,,,,,Goodyera micrantha
+4443,Orchidaceae,Spiranthoideae,Cranichideae,Goodyerinae,Goodyera,erosa,,,,,,,,,,,,,,,,,,,,,,,-30.7,,,,,,,,,,,,,,,,Silvera et al (2010),,,,,,,Goodyera erosa
+4444,Orchidaceae,Spiranthoideae,Cranichideae,Goodyerinae,Goodyera,fimbrilabia,,,,,,,,,,,,,,,,,,,,,,,-33.8,,,,,,,,,,,,,,,,Silvera et al (2010),,,,,,,Goodyera fimbrilabia
+4445,Orchidaceae,Spiranthoideae,Cranichideae,Goodyerinae,Goodyera,micrantha,,,,,,,,,,,,,,,,,,,,,,,-36.5,,,,,,,,,,,,,,,,Silvera et al (2010),,,,,,,Goodyera micrantha
 4446,Orchidaceae,Orchidoideae,Cranichideae,Goodyerinae,Kreodanthus,sarcochilus,,,,,,,,,,,,,,,,,,,,,,,-31.5,,,,,,,,,,,,,,,,Silvera et al (2010),,,,,,,Kreodanthus sarcochilus
 4447,Orchidaceae,Orchidoideae,Cranichideae,Goodyerinae,Microchilus,calophylla,,,,,,,,,,,,,,,,,,,,,,,-34.9,,,,,,,,,,,,,,,,Silvera et al (2010),,,,,,,Microchilus calophylla
 4448,Orchidaceae,Orchidoideae,Cranichideae,Goodyerinae,Microchilus,nigrescens,,,,,,,,,,,,,,,,,,,,,,,-35.6,,,,,,,,,,,,,,,,Silvera et al (2010),,,,,,,Microchilus nigrescens
@@ -5515,33 +5515,33 @@ Name: 849, dtype: object"
 5511,Asparagaceae,,,,Yucca,baccata,,,,,,,,,,,,CAM,,,,,,,,,,,-13.5,,,,,,,,,,,,,,,,Kemp and Gardetto (1982),,,,,,,Yucca baccata
 5512,Asparagaceae,,,,Yucca,gloriosa,,,,,,,,,,,,C3-CAM,,,,,,,,,,,-22.0,,,,,,,,,,,,,,,,Martin et al (1982),,,,,,,Yucca gloriosa
 5513,Asteraceae,,,,Senecio,medley-woodii,,,,,,,,,,,,CAM,,,,,,,,,,,-13.9,,,,,,,,,,,,,,,,Eller and Ruess (1986),,,,,,,Senecio medley-woodii
-5514,Bromeliaceae,,,,Aechmea,aquilega,,,,,,,,,,,,CAM,,,,,,,,,,,-15.0,,,,,,,,,,,,,,,,Griffiths et al (1986),,,,,,,Aechmea aquilega
-5515,Bromeliaceae,,,,Aechmea,aquilega,,,,,,,,,,,,CAM,,,,,,,,,,,-13.8,,,,,,,,,,,,,,,,Smith et al (1986a),,,,,,,Aechmea aquilega
-5516,Bromeliaceae,,,,Aechmea,fendleri,,,,,,,,,,,,CAM,,,,,,,,,,,-17.3,,,,,,,,,,,,,,,,Luttge (1989),,,,,,,Aechmea fendleri
-5517,Bromeliaceae,,,,Aechmea,fendleri,,,,,,,,,,,,CAM,,,,,,,,,,,-14.1,,,,,,,,,,,,,,,,Smith et al (1986a),,,,,,,Aechmea fendleri
-5518,Bromeliaceae,,,,Aechmea,fendleri,,,,,,,,,,,,CAM,,,,,,,,,,,-12.3,,,,,,,,,,,,,,,,Griffiths et al (1986),,,,,,,Aechmea fendleri
-5519,Bromeliaceae,,,,Aechmea,fendleri,,,,,,,,,,,,CAM,,,,,,,,,,,-12.3,,,,,,,,,,,,,,,,Griffiths et al (1986),,,,,,,Aechmea fendleri
-5520,Bromeliaceae,,,,Aechmea,nudicaulis,,,,,,,,,,,,CAM,,,,,,,,,,,-16.7,,,,,,,,,,,,,,,,Luttge (1989),,,,,,,Aechmea nudicaulis
-5521,Bromeliaceae,,,,Aechmea,nudicaulis,,,,,,,,,,,,CAM,,,,,,,,,,,-14.4,,,,,,,,,,,,,,,,Smith et al (1986a),,,,,,,Aechmea nudicaulis
-5522,Bromeliaceae,,,,Aechmea,nudicaulis,,,,,,,,,,,,CAM,,,,,,,,,,,-14.1,,,,,,,,,,,,,,,,Griffiths et al (1986),,,,,,,Aechmea nudicaulis
-5523,Bromeliaceae,,,,Aechmea,nudicaulis,,,,,,,,,,,,CAM,,,,,,,,,,,-14.0,,,,,,,,,,,,,,,,Smith et al (1986a),,,,,,,Aechmea nudicaulis
-5524,Bromeliaceae,,,,Aechmea,nudicaulis,,,,,,,,,,,,CAM,,,,,,,,,,,-13.7,,,,,,,,,,,,,,,,Smith et al (1986a),,,,,,,Aechmea nudicaulis
-5525,Bromeliaceae,,,,Ananas,comosus,,,,,,,,,,,,CAM,,,,,,,,,,,-12.4,,,,,,,,,,,,,,,,Sale and Neales (1980),,,,,,,Ananas comosus
-5526,Bromeliaceae,,,,Bromelia,humilis,,,,,,,,,,,,CAM,,,,,,,,,,,-17.7,,,,,,,,,,,,,,,,Lee et al (1988),,,,,,,Bromelia humilis
-5527,Bromeliaceae,,,,Bromelia,humilis,,,,,,,,,,,,CAM,,,,,,,,,,,-16.5,,,,,,,,,,,,,,,,Lee et al (1988),,,,,,,Bromelia humilis
-5528,Bromeliaceae,,,,Bromelia,humilis,,,,,,,,,,,,CAM,,,,,,,,,,,-16.2,,,,,,,,,,,,,,,,Lee et al (1988),,,,,,,Bromelia humilis
-5529,Bromeliaceae,,,,Dyckia,brevifolia,,,,,,,,,,,,CAM,,,,,,,,,,,-16.3,,,,,,,,,,,,,,,,McWilliams (1970),,,,,,,Dyckia brevifolia
-5530,Bromeliaceae,,,,Guzmania,monostachia,,,,,,,,,,,,C3-CAM,,,,,,,,,,,-31.5,,,,,,,,,,,,,,,,Smith et al (1985),,,,,,,Guzmania monostachia
-5531,Bromeliaceae,,,,Guzmania,monostachia,,,,,,,,,,,,C3-CAM,,,,,,,,,,,-26.7,,,,,,,,,,,,,,,,Griffiths et al (1986),,,,,,,Guzmania monostachia
-5532,Bromeliaceae,,,,Guzmania,monostachia,,,,,,,,,,,,C3-CAM,,,,,,,,,,,-26.5,,,,,,,,,,,,,,,,Smith et al (1986a),,,,,,,Guzmania monostachia
-5533,Bromeliaceae,,,,Nidularium,innocenti,,,,,,,,,,,,C3-CAM,,,,,,,,,,,-24.0,,,,,,,,,,,,,,,,Medina et al (1977),,,,,,,Nidularium innocenti
-5534,Bromeliaceae,,,,Tillandsia,flexulosa,,,,,,,,,,,,CAM,,,,,,,,,,,-13.1,,,,,,,,,,,,,,,,Griffiths et al (1989),,,,,,,Tillandsia flexulosa
-5535,Bromeliaceae,,,,Tillandsia,juncea,,,,,,,,,,,,CAM,,,,,,,,,,,-13.4,,,,,,,,,,,,,,,,McWilliams (1970),,,,,,,Tillandsia juncea
-5536,Bromeliaceae,,,,Tillandsia,schiedana,,,,,,,,,,,,CAM,,,,,,,,,,,,,,,,,,,,,,,,,,,Martin and Adams (1988),,,,,,,Tillandsia schiedana
-5537,Bromeliaceae,,,,Tillandsia,usneoides,,,,,,,,,,,,CAM,,,,,,,,,,,-19.8,,,,,,,,,,,,,,,,Griffiths and Smith (1983),,,,,,,Tillandsia usneoides
-5538,Bromeliaceae,,,,Tillandsia,usneoides,,,,,,,,,,,,CAM,,,,,,,,,,,-15.0,,,,,,,,,,,,,,,,Martin et al (1982),,,,,,,Tillandsia usneoides
-5539,Bromeliaceae,,,,Tillandsia,usneoides,,,,,,,,,,,,CAM,,,,,,,,,,,-13.7,,,,,,,,,,,,,,,,Medina et al (1977),,,,,,,Tillandsia usneoides
-5540,Bromeliaceae,,,,Tillandsia,usneoides,,,,,,,,,,,,CAM,,,,,,,,,,,-13.4,,,,,,,,,,,,,,,,Medina and Troughton (1974),,,,,,,Tillandsia usneoides
+5514,Bromeliaceae,Bromelioideae,,,Aechmea,aquilega,,,,,,,,,,,,CAM,,,,,,,,,,,-15.0,,,,,,,,,,,,,,,,Griffiths et al (1986),,,,,,,Aechmea aquilega
+5515,Bromeliaceae,Bromelioideae,,,Aechmea,aquilega,,,,,,,,,,,,CAM,,,,,,,,,,,-13.8,,,,,,,,,,,,,,,,Smith et al (1986a),,,,,,,Aechmea aquilega
+5516,Bromeliaceae,Bromelioideae,,,Aechmea,fendleri,,,,,,,,,,,,CAM,,,,,,,,,,,-17.3,,,,,,,,,,,,,,,,Luttge (1989),,,,,,,Aechmea fendleri
+5517,Bromeliaceae,Bromelioideae,,,Aechmea,fendleri,,,,,,,,,,,,CAM,,,,,,,,,,,-14.1,,,,,,,,,,,,,,,,Smith et al (1986a),,,,,,,Aechmea fendleri
+5518,Bromeliaceae,Bromelioideae,,,Aechmea,fendleri,,,,,,,,,,,,CAM,,,,,,,,,,,-12.3,,,,,,,,,,,,,,,,Griffiths et al (1986),,,,,,,Aechmea fendleri
+5519,Bromeliaceae,Bromelioideae,,,Aechmea,fendleri,,,,,,,,,,,,CAM,,,,,,,,,,,-12.3,,,,,,,,,,,,,,,,Griffiths et al (1986),,,,,,,Aechmea fendleri
+5520,Bromeliaceae,Bromelioideae,,,Aechmea,nudicaulis,,,,,,,,,,,,CAM,,,,,,,,,,,-16.7,,,,,,,,,,,,,,,,Luttge (1989),,,,,,,Aechmea nudicaulis
+5521,Bromeliaceae,Bromelioideae,,,Aechmea,nudicaulis,,,,,,,,,,,,CAM,,,,,,,,,,,-14.4,,,,,,,,,,,,,,,,Smith et al (1986a),,,,,,,Aechmea nudicaulis
+5522,Bromeliaceae,Bromelioideae,,,Aechmea,nudicaulis,,,,,,,,,,,,CAM,,,,,,,,,,,-14.1,,,,,,,,,,,,,,,,Griffiths et al (1986),,,,,,,Aechmea nudicaulis
+5523,Bromeliaceae,Bromelioideae,,,Aechmea,nudicaulis,,,,,,,,,,,,CAM,,,,,,,,,,,-14.0,,,,,,,,,,,,,,,,Smith et al (1986a),,,,,,,Aechmea nudicaulis
+5524,Bromeliaceae,Bromelioideae,,,Aechmea,nudicaulis,,,,,,,,,,,,CAM,,,,,,,,,,,-13.7,,,,,,,,,,,,,,,,Smith et al (1986a),,,,,,,Aechmea nudicaulis
+5525,Bromeliaceae,Bromelioideae,,,Ananas,comosus,,,,,,,,,,,,CAM,,,,,,,,,,,-12.4,,,,,,,,,,,,,,,,Sale and Neales (1980),,,,,,,Ananas comosus
+5526,Bromeliaceae,Bromelioideae,,,Bromelia,humilis,,,,,,,,,,,,CAM,,,,,,,,,,,-17.7,,,,,,,,,,,,,,,,Lee et al (1988),,,,,,,Bromelia humilis
+5527,Bromeliaceae,Bromelioideae,,,Bromelia,humilis,,,,,,,,,,,,CAM,,,,,,,,,,,-16.5,,,,,,,,,,,,,,,,Lee et al (1988),,,,,,,Bromelia humilis
+5528,Bromeliaceae,Bromelioideae,,,Bromelia,humilis,,,,,,,,,,,,CAM,,,,,,,,,,,-16.2,,,,,,,,,,,,,,,,Lee et al (1988),,,,,,,Bromelia humilis
+5529,Bromeliaceae,Pitcairnioideae,,,Dyckia,brevifolia,,,,,,,,,,,,CAM,,,,,,,,,,,-16.3,,,,,,,,,,,,,,,,McWilliams (1970),,,,,,,Dyckia brevifolia
+5530,Bromeliaceae,Tillandsioideae,,,Guzmania,monostachia,,,,,,,,,,,,C3-CAM,,,,,,,,,,,-31.5,,,,,,,,,,,,,,,,Smith et al (1985),,,,,,,Guzmania monostachia
+5531,Bromeliaceae,Tillandsioideae,,,Guzmania,monostachia,,,,,,,,,,,,C3-CAM,,,,,,,,,,,-26.7,,,,,,,,,,,,,,,,Griffiths et al (1986),,,,,,,Guzmania monostachia
+5532,Bromeliaceae,Tillandsioideae,,,Guzmania,monostachia,,,,,,,,,,,,C3-CAM,,,,,,,,,,,-26.5,,,,,,,,,,,,,,,,Smith et al (1986a),,,,,,,Guzmania monostachia
+5533,Bromeliaceae,Bromelioideae,,,Nidularium,innocenti,,,,,,,,,,,,C3-CAM,,,,,,,,,,,-24.0,,,,,,,,,,,,,,,,Medina et al (1977),,,,,,,Nidularium innocenti
+5534,Bromeliaceae,Tillandsioideae,,,Tillandsia,flexulosa,,,,,,,,,,,,CAM,,,,,,,,,,,-13.1,,,,,,,,,,,,,,,,Griffiths et al (1989),,,,,,,Tillandsia flexulosa
+5535,Bromeliaceae,Tillandsioideae,,,Tillandsia,juncea,,,,,,,,,,,,CAM,,,,,,,,,,,-13.4,,,,,,,,,,,,,,,,McWilliams (1970),,,,,,,Tillandsia juncea
+5536,Bromeliaceae,Tillandsioideae,,,Tillandsia,schiedana,,,,,,,,,,,,CAM,,,,,,,,,,,,,,,,,,,,,,,,,,,Martin and Adams (1988),,,,,,,Tillandsia schiedana
+5537,Bromeliaceae,Tillandsioideae,,,Tillandsia,usneoides,,,,,,,,,,,,CAM,,,,,,,,,,,-19.8,,,,,,,,,,,,,,,,Griffiths and Smith (1983),,,,,,,Tillandsia usneoides
+5538,Bromeliaceae,Tillandsioideae,,,Tillandsia,usneoides,,,,,,,,,,,,CAM,,,,,,,,,,,-15.0,,,,,,,,,,,,,,,,Martin et al (1982),,,,,,,Tillandsia usneoides
+5539,Bromeliaceae,Tillandsioideae,,,Tillandsia,usneoides,,,,,,,,,,,,CAM,,,,,,,,,,,-13.7,,,,,,,,,,,,,,,,Medina et al (1977),,,,,,,Tillandsia usneoides
+5540,Bromeliaceae,Tillandsioideae,,,Tillandsia,usneoides,,,,,,,,,,,,CAM,,,,,,,,,,,-13.4,,,,,,,,,,,,,,,,Medina and Troughton (1974),,,,,,,Tillandsia usneoides
 5541,Cactaceae,,,,Cereus,validus,,,,,,,,,,,,CAM,,,,,,,,,,,,,,,,,,,,,,,,,,,Nobel et al (1984),,,,,,,Cereus validus
 5542,Cactaceae,,,,Mammillaria,woodsii,,,,,,,,,,,,CAM,,,,,,,,,,,,,,,,,,,,,,,,,,,Nobel et al (1984),,,,,,,Mammillaria woodsii
 5543,Cactaceae,,,,Opuntia,ficus-indica,,,,,,,,,,,,CAM,,,,,,,,,,,-10.0,,,,,,,,,,,,,,,,Osmond et al (1979),,,,,,,Opuntia ficus-indica
@@ -5570,8 +5570,8 @@ Name: 849, dtype: object"
 5566,Orchidaceae,Apostasioideae,,,Apostasia,,,,,,,,,,,,,C3,,,,,,,,,,,-35.4,,,,,,,,,,,,,,,,Luttge (1989),,,,,,,"Genus    Apostasia
 Name: 5566, dtype: object"
 5567,Orchidaceae,,,,Arachnis,hookeriana,,,,,,,,,,,,CAM,,,,,,,,,,,-15.1,,,,,,,,,,,,,,,,Neales and Hew (1975),,,,,,,Arachnis hookeriana
-5568,Orchidaceae,Epidendroideae,,,Bulbophyllum,crassulifolium,,,,,,,,,Epiphyte,,,CAM,,,,,,,,,,,-13.9,,,,,,,,,,,,,,,,Winter et al (1983),,,,,,,Bulbophyllum crassulifolium
-5569,Orchidaceae,Epidendroideae,,,Bulbophyllum,lilianae,,,,,,,,,Epiphyte,,,C3,,,,,,,,,,,-27.9,,,,,,,,,,,,,,,,Winter et al (1983),,,,,,,Bulbophyllum lilianae
+5568,Orchidaceae,Epidendroideae,Vandeae,Dendrobiinae,Bulbophyllum,crassulifolium,,,,,,,,,Epiphyte,,,CAM,,,,,,,,,,,-13.9,,,,,,,,,,,,,,,,Winter et al (1983),,,,,,,Bulbophyllum crassulifolium
+5569,Orchidaceae,Epidendroideae,Vandeae,Dendrobiinae,Bulbophyllum,lilianae,,,,,,,,,Epiphyte,,,C3,,,,,,,,,,,-27.9,,,,,,,,,,,,,,,,Winter et al (1983),,,,,,,Bulbophyllum lilianae
 5570,Orchidaceae,Vandoideae,,,Chiloschista,phyllorhiza,,,,,,,,,Epiphyte,,,CAM,,,,,,,,,,,-15.8,,,,,,,,,,,,,,,,Winter et al (1983),,,,,,,Chiloschista phyllorhiza
 5571,Orchidaceae,Vandoideae,,,Chiloschista,usneoides,,,,,,,,,Epiphyte,,,CAM,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,Cockburn et al (1985),,,,,,,Chiloschista usneoides
 5572,Orchidaceae,Vandoideae,,,Cymbidium,caniculatum,,,,,,,,,Epiphyte,,,CAM,,,,,,,,,,,-18.7,,,,,,,,,,,,,,,,Winter et al (1983),,,,,,,Cymbidium caniculatum
@@ -5579,22 +5579,22 @@ Name: 5566, dtype: object"
 5574,Orchidaceae,Cyprepedioideae,,,Cypropedium,acaule,,,,,,,,,,,,C3,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,McWilliams (1970),,,,,,,Cypropedium acaule
 5575,Orchidaceae,Epidendroideae,,,Dendrobium,crumentum,,,,,,,,,Epiphyte,,,CAM,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,Sinclair (1984),,,,,,,Dendrobium crumentum
 5576,Orchidaceae,Epidendroideae,,,Dendrobium,malbrownii,,,,,,,,,Epiphyte,,,C3,,,,,,,,,,,-25.8,,,,,,,,,,,,,,,,Winter et al (1983),,,,,,,Dendrobium malbrownii
-5577,Orchidaceae,,,,Dendrobium,speciosum,,,,,,,,,,,,CAM,,,,,,,,,,,-15.4,,,,,,,,,,,,,,,,Winter et al (1983),,,,,,,Dendrobium speciosum
-5578,Orchidaceae,Epidendroideae,,,Epidendrum,alatum,,,,,,,,,Epiphyte,,,CAM,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,McWilliams (1970),,,,,,,Epidendrum alatum
+5577,Orchidaceae,Epidendroideae,,,Dendrobium,speciosum,,,,,,,,,,,,CAM,,,,,,,,,,,-15.4,,,,,,,,,,,,,,,,Winter et al (1983),,,,,,,Dendrobium speciosum
+5578,Orchidaceae,Epidendroideae,Calypsoeae,Laeliinae,Epidendrum,alatum,,,,,,,,,Epiphyte,,,CAM,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,McWilliams (1970),,,,,,,Epidendrum alatum
 5579,Orchidaceae,Epidendroideae,,,Eria,fitzalani,,,,,,,,,Epiphyte,,,C3,,,,,,,,,,,-28.4,,,,,,,,,,,,,,,,Winter et al (1983),,,,,,,Eria fitzalani
 5580,Orchidaceae,Epidendroideae,,,Eria,velutina,,,,,,,,,Epiphyte,,,CAM,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,Sinclair (1984),,,,,,,Eria velutina
-5581,Orchidaceae,Spiranthoideae,,,Goodyera,pubescens,,,,,,,,,,,,C3,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,McWilliams (1970),,,,,,,Goodyera pubescens
-5582,Orchidaceae,Spiranthoideae,,,Goodyera,viridiflora,,,,,,,,,Terrestrial epiphyte,,,C3,,,,,,,,,,,-33.6,,0.0,,,,,,,,,,,,,,Winter et al (1983),,,,,,,Goodyera viridiflora
+5581,Orchidaceae,Spiranthoideae,Cranichideae,Goodyerinae,Goodyera,pubescens,,,,,,,,,,,,C3,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,McWilliams (1970),,,,,,,Goodyera pubescens
+5582,Orchidaceae,Spiranthoideae,Cranichideae,Goodyerinae,Goodyera,viridiflora,,,,,,,,,Terrestrial epiphyte,,,C3,,,,,,,,,,,-33.6,,0.0,,,,,,,,,,,,,,Winter et al (1983),,,,,,,Goodyera viridiflora
 5583,Orchidaceae,Apostasioideae,,,Neuwiedia,griffithii,,,,,,,,,Terrestrial,,,C3,,,,,,,,,,,-38.0,,,,,,,,,,,,,,,,Luttge (1989),,,,,,,Neuwiedia griffithii
 5584,Orchidaceae,Apostasioideae,,,Neuwiedia,veratrifolia,,,,,,,,,,,,C3,,,,,,,,,,,-33.3,,,,,,,,,,,,,,,,Luttge (1989),,,,,,,Neuwiedia veratrifolia
 5585,Orchidaceae,Cyprepedioideae,,,Paphiopedilum,venustrum,,,,,,,,,,,,C3,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,McWilliams (1970),,,,,,,Paphiopedilum venustrum
 5586,Orchidaceae,Vandoideae,,,Polyradicion,lindenii,,,,,,,,,Epiphyte,,,CAM,,,,,,,,,,,,,,,,,,,,,,,,,,,Benzing and Ott (1981),,,,,,,Polyradicion lindenii
 5587,Orchidaceae,Orchidoideae,,,Pterostylis,obtusa,,,,,,,,,Terrestrial,,,C3,,,,,,,,,,,-29.1,,,,,,,,,,,,,,,,Winter et al (1983),,,,,,,Pterostylis obtusa
 5588,Orchidaceae,Epidendroideae,,,Schomburgkia,humboldtiana,,,,,,,,,Epiphyte,,,CAM,,,,,,,,,,,-13.4,,1.0,,,,,,,,,,,,,,Griffiths et al (1989),,,,,,,Schomburgkia humboldtiana
-5589,Orchidaceae,,,,Schomburgkia,humboldtiana,,,,,,,,,,,,CAM,,,,,,,,,,,-13.4,,,,,,,,,,,,,,,,Griffiths et al (1988),,,,,,,Schomburgkia humboldtiana
+5589,Orchidaceae,Epidendroideae,,,Schomburgkia,humboldtiana,,,,,,,,,,,,CAM,,,,,,,,,,,-13.4,,,,,,,,,,,,,,,,Griffiths et al (1988),,,,,,,Schomburgkia humboldtiana
 5590,Orchidaceae,Spiranthoideae,,,Spirantha,speciosa,,,,,,,,,Terrestrial epiphyte,,,C3-CAM,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,McWilliams (1970),,,,,,,Spirantha speciosa
 5591,Orchidaceae,Orchidoideae,,,Thelymitra,ixioides,,,,,,,,,Terrestrial,,,C3,,,,,,,,,,,-27.1,,,,,,,,,,,,,,,,Winter et al (1983),,,,,,,Thelymitra ixioides
-5592,Orchidaceae,Epidendroideae,,,Vanilla,fragrans,,,,,,,,,Climber,,,CAM,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,McWilliams (1970),,,,,,,Vanilla fragrans
+5592,Orchidaceae,Epidendroideae,Vanilleae,,Vanilla,fragrans,,,,,,,,,Climber,,,CAM,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,McWilliams (1970),,,,,,,Vanilla fragrans
 5593,Piperaceae,,,,Peperomia,camptotricha,,,,,,,,,,,,C3-CAM,,,,,,,,,,,-27.7,,,,,,,,,,,,,,,,Sternberg et al (1984a),,,,,,,Peperomia camptotricha
 5594,Polypodiaceae,,,,Pyrrosia,ceylanica,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,1000.0,0.0,,,,,,,Luttge (1989),,,,,,,Pyrrosia ceylanica
 5595,Polypodiaceae,,,,Pyrrosia,confluens,,,,,,,,,,,,C3-CAM,,,,,,,,,,,-25.3,,,,,,,,,,,,,,,,Winter et al (1983),,,,,,,Pyrrosia confluens
@@ -5633,7 +5633,7 @@ Name: 5566, dtype: object"
 5628,Polypodiaceae,,,,Pyrrosia,longifolia,,,,,,,,,,,,CAM,,,,,,,,,,,-13.98,,,,,,,,,,,,,,,,Griffiths et al (1989),,,,,,,Pyrrosia longifolia
 5629,Polypodiaceae,,,,Pyrrosia,adnascens,,,,,,,,,,,,C3-CAM,,,,,,,,,,,-25.74,,,,,,,,,,,,,,,,Griffiths et al (1989),,,,,,,Pyrrosia adnascens
 5630,Polypodiaceae,,,,Pyrrosia,piloselloides,,,,,,,,,,,,CAM,,,,,,,,,,,-16.23,,,,,,,,,,,,,,,,Griffiths et al (1989),,,,,,,Pyrrosia piloselloides
-5631,Orchidaceae,,,,Dendrobium,crumentum,,,,,,,,,,,,CAM,,,,,,,,,,,-13.67,,,,,,,,,,,,,,,,Griffiths et al (1989),,,,,,,Dendrobium crumentum
+5631,Orchidaceae,Epidendroideae,,,Dendrobium,crumentum,,,,,,,,,,,,CAM,,,,,,,,,,,-13.67,,,,,,,,,,,,,,,,Griffiths et al (1989),,,,,,,Dendrobium crumentum
 5632,Orchidaceae,,,,Vanda,rothschildiana,,,,,,,,,,,,CAM,,,,,,,,,,,-15.11,,,,,,,,,,,,,,,,Griffiths et al (1989),,,,,,,Vanda rothschildiana
 5633,Orchidaceae,,,,Vanda,sp.,,,,,,,,,,,,CAM,,,,,,,,,,,-14.11,,,,,,,,,,,,,,,,Griffiths et al (1989),,,,,,,Vanda sp.
 5634,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Genus    NaN
