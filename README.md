@@ -10,6 +10,8 @@ This database is currently curated by me but I'm always looking for help. CAM is
 All features ending in 'sd' are standard deviations of their respective variables. Units are included when applicable. 
 *	`Family`
 * `Subfamily`
+* `Tribe`
+* `Subtribe`
 * `Genus`
 * `Species`
 * `Subspecies`
@@ -47,5 +49,8 @@ All features ending in 'sd' are standard deviations of their respective variable
 * `mesophyll_adaxial_area_um2`
 * `mesophyll_adaxial_length_um`
 * `mesophyll_cell_area_um2`
-* `plant_part`: Type os tissue measurement was taking from
+* `plant_part`: Type of tissue measurement was taking from
 * `Source`: Source of data (usually peer reviewed journal article)
+* `transpiration_ratio` : Ratio of dark to light transpiration rate
+
+Note that there is currently `plant_part`, `Tissue`, and `tissue` that need to be merged.
