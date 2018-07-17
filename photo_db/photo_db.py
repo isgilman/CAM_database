@@ -2,7 +2,10 @@
 
 # Core
 import re, csv, requests, math
-import pandas as pd
+try:
+    import pandas as pd
+except ImportError:
+	print("Cannot find package 'pandas'. Try installing with\n\tpip install pandas")
 from pandas.compat import StringIO
 import numpy as np
 # Plotting
@@ -83,16 +86,16 @@ def db_info(cam_db, plt_missingdata=False, **kwargs):
         sources = len(cam_db.dropna(subset=[['Source']]).Source.unique())
     except KeyError:
         sources = None
-
-    print "The CAM database consists of:\n\t{} observations,\
-                                        \n\t{} families,\
-                                        \n\t{} subfamiles,\
-                                        \n\t{} tribes,\
-                                        \n\t{} subtribes,\
-                                        \n\t{} genera, and\
-                                        \n\t{} species from {} publications.\
-            \n{:.3} of the data matrix is missing and\
-            \n{} observations have known photosynthetic pathways.".format(
+    try:
+        print "The CAM database consists of:\n\t{} observations,\
+                                            \n\t{} families,\
+                                            \n\t{} subfamiles,\
+                                            \n\t{} tribes,\
+                                            \n\t{} subtribes,\
+                                            \n\t{} genera, and\
+                                            \n\t{} species from {} publications.\
+                                            \n{:.3} of the data matrix is missing and\
+                                            \n{} observations have known photosynthetic pathways.".format(
         len(cam_db),
         fams,
         subfams,
@@ -103,7 +106,8 @@ def db_info(cam_db, plt_missingdata=False, **kwargs):
         sources,
         float(cam_db.melt().isnull().sum()[1])/(cam_db.shape[0]*cam_db.shape[1]),
         len(cam_db.dropna(subset=[['Pathway']])))
-    
+    except AttributeError:
+    	print("Can't find funtion pd.DataFrame.melt. Try updating pandas with\n\tconda update pandas")
     if plt_missingdata:
         msno.matrix(cam_db, **kwargs)
 
