@@ -209,11 +209,8 @@ def check_nan(thing):
 	-------
 	bool indicating if thing is nan"""
 
-    try: 
-        return math.isnan(thing)
-    except:
-        TypeError
-        return False
+    try: return math.isnan(thing)
+    except TypeError: return False
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 def drop_ambig(df, rank='Species', ambigs=['species', 'sp', 'spp', 'spec', 'sp.', 'spp.', 'spec.', 'hybrid']):
