@@ -1,6 +1,6 @@
 import setuptools
 
-#requirements = ['numpy', 'scipy', 'pandas', 'requests', 're', 'csv', 'math', 'missingno', 'matplotlib']
+requirements = ['numpy', 'scipy', 'pandas', 'requests', 're', 'csv', 'math', 'missingno', 'matplotlib']
 
 setuptools.setup(
     name="photo_db",
@@ -15,7 +15,7 @@ setuptools.setup(
 
     packages=setuptools.find_packages(),
 
-#    install_requires=[requirements],
+   install_requires=[requirements],
 
     license='GPL',
 

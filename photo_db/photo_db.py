@@ -13,7 +13,18 @@ import matplotlib.pyplot as plt
 import missingno as msno
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 def pull_data(dataset='cam_db'):
-    
+    """Retrieves data from the photosynthesis database or 'The List' of known 
+    photosynthetic pathways for all plant genera.
+
+    Parameters
+    ----------
+    dataset : name of database (str; default = 'cam_db', other option is 
+    	'the_list')
+
+    Returns
+    -------
+    df : pandas DataFrame"""
+
     if dataset=='cam_db':
         url = 'https://raw.githubusercontent.com/isgilman/CAM_database/master/CAM_database.csv'  
     elif dataset=='the_list':
@@ -30,12 +41,17 @@ def pull_data(dataset='cam_db'):
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 def db_info(cam_db, plt_missingdata=False, **kwargs):
-    '''Takes a pandas DataFrame made from the CAM database and returns some metrics on the 
-    number of observations at different taxonomic ranks.
+    """Takes a pandas DataFrame made from the CAM database and returns some 
+    metrics on the number of observations at different taxonomic ranks. It can
+    also plot a missingno.matrix of the missing data.
     
     Parameters
     ----------
-    cam_db : pandas DataFrame containing CAM database from isgilman GitHub'''
+    cam_db : pandas DataFrame with relatively similar structure to that pulled 
+    	by pull_data('cam_db')
+    plt_missing : indicate whether to include missing data matrix plot (bool;
+    	default=False)
+    **kwargs : plotting arguments to be passed to missingno.matrix"""
     
     
     try:
@@ -92,8 +108,16 @@ def db_info(cam_db, plt_missingdata=False, **kwargs):
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 def plot_svc_decision_function(model, ax=None, plot_support=True):
-    '''Plot the decision function for a 2D SVC. From the Python Data 
-    Science Handbook by Jake VanderPlas'''
+    """Plot the decision function for a 2D SVC. From the Python Data Science 
+    Handbook by Jake VanderPlas
+
+    Parameters
+    ----------
+    model : model from sk-learn SVM (or similar type, such as LinearSVC)
+    ax : plotting axis (default = None)
+    plot_support : indicate whether or not to plot support vectors (bool;
+    	default=True)"""
+
     if ax is None:
         ax = plt.gca()
     xlim = ax.get_xlim()
@@ -121,21 +145,33 @@ def plot_svc_decision_function(model, ax=None, plot_support=True):
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 def catmode(df, key_col, value_col, count_col='Count', tiebreak='random'):
-    '''                                                                                                                                                                                                                                                                                                                                                              
-    Pandas does not provide a `mode` aggregation function                                                                                                                                                                                                                                                                                                            
-    for its `GroupBy` objects. This function is meant to fill                                                                                                                                                                                                                                                                                                        
-    that gap, though the semantics are not exactly the same.                                                                                                                                                                                                                                                                                                         
+    '''Pandas does not provide a `mode` aggregation function for its `GroupBy` 
+    objects. This function is meant to fill that gap, though the semantics are 
+    not exactly the same.                                                                                                                                                                                                                                                                                                         
 
-    The input is a DataFrame with the columns `key_cols`                                                                                                                                                                                                                                                                                                             
-    that you would like to group on, and the column                                                                                                                                                                                                                                                                                                                  
-    `value_col` for which you would like to obtain the mode.                                                                                                                                                                                                                                                                                                         
+    The input is a DataFrame with the columns `key_cols` that you would like to 
+    group on, and the column `value_col` for which you would like to obtain the 
+    mode.                                                                                                                                                                                                                                                                                                         
 
     The output is a DataFrame with a record per group that has at least one mode                                                                                                                                                                                                                                                                                     
     (null values are not counted). The `key_cols` are included as columns, `value_col`                                                                                                                                                                                                                                                                               
     contains a mode (ties are broken arbitrarily and deterministically) for each                                                                                                                                                                                                                                                                                     
     group, and `count_col` indicates how many times each mode appeared in its group.   
 
-    This fucntion was written by StackExchange user abw333 and altered slightly.                                                                                                                                                                                                                                                                           
+    This fucntion was written by StackExchange user abw333 and altered slightly. 
+
+    Parameters
+    ----------
+    df : pandas DataFrame
+    key_col : name of column of df you would like to group by (str)
+    value_col : name of column of df to take the mode of (str)
+    count_col : name of new column containing mode values (str; default='Count')
+    tiebreak : rule by while multi-modal results are broken (strl default='random',
+    	other options include 'first', 'last', and 'neither')
+
+    Returns
+    -------
+    modeframe : pandas DataFrame containing the key, value, and modes                                                                                                                                                                                                                                                                     
     '''
     temp = df.groupby([key_col, value_col]).size().to_frame(count_col).reset_index().sort_values(count_col, ascending=False)
 
@@ -153,7 +189,7 @@ def catmode(df, key_col, value_col, count_col='Count', tiebreak='random'):
                 mode = withmax[value_col].tolist()[0]
             elif tiebreak=='last':
                 mode = withmax[value_col].tolist()[-1]
-            elif tiebreak=='none':
+            elif tiebreak=='neither':
                 mode = np.nan
         else:
             mode = withmax[value_col].tolist()[0]
@@ -166,6 +202,16 @@ def catmode(df, key_col, value_col, count_col='Count', tiebreak='random'):
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 def check_nan(thing):
+	"""Shortcut to check if something is nan
+
+	Parameters
+	----------
+	thing : thing to check 
+
+	Returns
+	-------
+	bool indicating if thing is nan"""
+
     try: 
         return math.isnan(thing)
         
@@ -174,15 +220,44 @@ def check_nan(thing):
         return False
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-def drop_ambig(DF, rank='Species', ambigs=['species', 'sp', 'spp', 'spec', 'sp.', 'spp.', 'spec.', 'hybrid']):
-    
-    temp = DF[~DF[rank].str.lower().isin([x.lower() for x in ambigs])]
+def drop_ambig(df, rank='Species', ambigs=['species', 'sp', 'spp', 'spec', 'sp.', 'spp.', 'spec.', 'hybrid']):
+    """Drops observations with ambiguous or hybrid taxonomic ranks. Currently
+    applies most directly to species and genera. 
+
+    Parameters
+    ----------
+    df : pandas DataFrame similar to that created by pull_db('cam_db')
+	rank : taxonomic rank to drop from (str, default = 'Species')
+	ambigs : list of ambiguous strings (list; default = 
+		['species', 'sp', 'spp', 'spec', 'sp.', 'spp.', 'spec.', 'hybrid'])
+    Returns
+    -------
+    temp : pandas DataFrame without ambiguous observations
+    """
+    temp = df[~df[rank].str.lower().isin([x.lower() for x in ambigs])]
     
     return temp.dropna(subset=[rank]).reset_index(drop=True)
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-def data_fill_modes(df, group_by, to_fill, tiebreak='random', debug=False):
-    
+def fill_na_modes(df, group_by, to_fill, tiebreak='random', debug=False):
+    """Replace column NaNs with mode. As noted by photo_db.mode, pandas does not
+    provide a good, out-of-the-box method for grouping by value and then filling
+    NaNs with the mode of those groups. This is important for filling in 
+    categorical data.
+
+    Parameters
+    ----------
+    df : pandas DataFrame
+    group_by : name of column to group by (str)
+    to_fill : name of columns to perform mode-filling on (list)
+    tiebreak : how to break choose from multi-modal groups (str; default = 
+    	'random', see photo_db.mode for more)
+    debug : include debugging-informative print statements (bool; default = 
+    	False)
+    Returns
+    -------
+    copy : pandas DataFrame with to_fill column NaNs replaced by group modes"""
+
     # Create a copy to prevent bias after randomly choosing among responses
     copy = df.copy()
     fill_dict={}
@@ -212,9 +287,22 @@ def data_fill_modes(df, group_by, to_fill, tiebreak='random', debug=False):
     return copy
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-def fill_numeric(df, group_by, values, how='mean'):
-    
+def fill_numeric(df, group_by, to_fill, how='mean'):
+    """Compliment to fill_na_modes for numerical data. These are relatively 
+    straightforward pandas operations but they are convenient. Need to provide
+    support for other fill methods, especially custom methods.
+
+    Parameters
+    ----------
+	df : pandas DataFrame
+	group_by : name of column to group by (str)
+    values : name of columns to perform mode-filling on (list)
+    how : how to fill NaNs (str; default = 'mean')
+	
+	Returns
+	-------
+	pandas DataFrame with to_fill columns NaNs filled by 'how' of groups"""
     if how=='mean':
-        temp = df.groupby(group_by).transform(lambda x: x.fillna(x.mean()))[values]
+        temp = df.groupby(group_by).transform(lambda x: x.fillna(x.mean()))[to_fill]
         orig_cols = list(set(df.columns)-set(temp.columns))
     return pd.concat([df[orig_cols], temp], axis=1).reset_index(drop=True)
