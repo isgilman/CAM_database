@@ -214,7 +214,6 @@ def check_nan(thing):
 
     try: 
         return math.isnan(thing)
-        
     except:
         TypeError
         return False
