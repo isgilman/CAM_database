@@ -4,7 +4,6 @@
 import re, csv, requests, math
 import pandas as pd
 from pandas.compat import StringIO
-import scipy as sp
 import numpy as np
 # Plotting
 import matplotlib as mpl
@@ -52,7 +51,6 @@ def db_info(cam_db, plt_missingdata=False, **kwargs):
     plt_missing : indicate whether to include missing data matrix plot (bool;
     	default=False)
     **kwargs : plotting arguments to be passed to missingno.matrix"""
-    
     
     try:
         fams = len(cam_db.dropna(subset=[['Family']]).Family.unique())
@@ -145,7 +143,7 @@ def plot_svc_decision_function(model, ax=None, plot_support=True):
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 def catmode(df, key_col, value_col, count_col='Count', tiebreak='random'):
-    '''Pandas does not provide a `mode` aggregation function for its `GroupBy` 
+    """Pandas does not provide a `mode` aggregation function for its `GroupBy` 
     objects. This function is meant to fill that gap, though the semantics are 
     not exactly the same.                                                                                                                                                                                                                                                                                                         
 
@@ -171,8 +169,7 @@ def catmode(df, key_col, value_col, count_col='Count', tiebreak='random'):
 
     Returns
     -------
-    modeframe : pandas DataFrame containing the key, value, and modes                                                                                                                                                                                                                                                                     
-    '''
+    modeframe : pandas DataFrame containing the key, value, and modes"""
     temp = df.groupby([key_col, value_col]).size().to_frame(count_col).reset_index().sort_values(count_col, ascending=False)
 
     ranks = []
@@ -231,8 +228,8 @@ def drop_ambig(df, rank='Species', ambigs=['species', 'sp', 'spp', 'spec', 'sp.'
 		['species', 'sp', 'spp', 'spec', 'sp.', 'spp.', 'spec.', 'hybrid'])
     Returns
     -------
-    temp : pandas DataFrame without ambiguous observations
-    """
+    temp : pandas DataFrame without ambiguous observations"""
+
     temp = df[~df[rank].str.lower().isin([x.lower() for x in ambigs])]
     
     return temp.dropna(subset=[rank]).reset_index(drop=True)
@@ -298,9 +295,10 @@ def fill_numeric(df, group_by, to_fill, how='mean'):
     values : name of columns to perform mode-filling on (list)
     how : how to fill NaNs (str; default = 'mean')
 	
-	Returns
-	-------
-	pandas DataFrame with to_fill columns NaNs filled by 'how' of groups"""
+    Returns
+    -------
+    pandas DataFrame with to_fill columns NaNs filled by 'how' of groups"""
+    
     if how=='mean':
         temp = df.groupby(group_by).transform(lambda x: x.fillna(x.mean()))[to_fill]
         orig_cols = list(set(df.columns)-set(temp.columns))
