@@ -33,8 +33,8 @@ def pull_data(dataset='cam_db'):
     df = pd.read_csv(StringIO(gitdata))
 
     for col in df.columns:
-    	if "Unnamed" in col:
-        	df.drop(labels=[col], axis=1, inplace=True)
+        if "Unnamed" in col:
+            df.drop(labels=[col], axis=1, inplace=True)
 
     return df
 
@@ -209,8 +209,10 @@ def check_nan(thing):
 	-------
 	bool indicating if thing is nan"""
 
-    try: return math.isnan(thing)
-    except TypeError: return False
+    try: 
+        return math.isnan(thing)
+    except TypeError: 
+        return False
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 def drop_ambig(df, rank='Species', ambigs=['species', 'sp', 'spp', 'spec', 'sp.', 'spp.', 'spec.', 'hybrid']):
