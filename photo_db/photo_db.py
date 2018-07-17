@@ -7,21 +7,26 @@ from pandas.compat import StringIO
 import scipy as sp
 import numpy as np
 # Plotting
-import missingno as msno
+import matplotlib as mpl
+mpl.use('TkAgg')
 import matplotlib.pyplot as plt
-import matplotlib.patches as mpatches
-import seaborn as sns
-from mpl_toolkits.mplot3d import Axes3D
-sns.set(style="ticks")
-# Machine learning
-import sklearn as skl
-from sklearn import svm, datasets
-from sklearn.decomposition import PCA
-from sklearn.metrics import classification_report, confusion_matrix
-from sklearn.ensemble import RandomForestClassifier, AdaBoostClassifier
-from sklearn.preprocessing import StandardScaler
-from sklearn.model_selection import train_test_split, cross_val_predict, cross_val_score
+import missingno as msno
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+def pull_data(dataset='cam_db'):
+    
+    if dataset=='cam_db':
+        url = 'https://raw.githubusercontent.com/isgilman/CAM_database/master/CAM_database.csv'  
+    elif dataset=='the_list':
+        url = 'https://raw.githubusercontent.com/isgilman/CAM_database/master/Genera_Photosynthesis.csv'
+    
+    gitdata = requests.get(url).text
+    df = pd.read_csv(StringIO(gitdata))
 
+    for col in df.columns:
+    	if "Unnamed" in col:
+        	df.drop(labels=[col], axis=1, inplace=True)
+
+    return df
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 def db_info(cam_db, plt_missingdata=False, **kwargs):
@@ -115,7 +120,7 @@ def plot_svc_decision_function(model, ax=None, plot_support=True):
     ax.set_ylim(ylim)
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-def modes(df, key_cols, value_col, count_col):
+def catmode(df, key_col, value_col, count_col='Count', tiebreak='random'):
     '''                                                                                                                                                                                                                                                                                                                                                              
     Pandas does not provide a `mode` aggregation function                                                                                                                                                                                                                                                                                                            
     for its `GroupBy` objects. This function is meant to fill                                                                                                                                                                                                                                                                                                        
@@ -123,16 +128,41 @@ def modes(df, key_cols, value_col, count_col):
 
     The input is a DataFrame with the columns `key_cols`                                                                                                                                                                                                                                                                                                             
     that you would like to group on, and the column                                                                                                                                                                                                                                                                                                                  
-    `value_col` for which you would like to obtain the modes.                                                                                                                                                                                                                                                                                                        
+    `value_col` for which you would like to obtain the mode.                                                                                                                                                                                                                                                                                                         
 
-    The output is a DataFrame with a record per group that has at least                                                                                                                                                                                                                                                                                              
-    one mode (null values are not counted). The `key_cols` are included as                                                                                                                                                                                                                                                                                           
-    columns, `value_col` contains lists indicating the modes for each group,                                                                                                                                                                                                                                                                                         
-    and `count_col` indicates how many times each mode appeared in its group. 
-    
-    This was modified from StackExchange user abw333.
+    The output is a DataFrame with a record per group that has at least one mode                                                                                                                                                                                                                                                                                     
+    (null values are not counted). The `key_cols` are included as columns, `value_col`                                                                                                                                                                                                                                                                               
+    contains a mode (ties are broken arbitrarily and deterministically) for each                                                                                                                                                                                                                                                                                     
+    group, and `count_col` indicates how many times each mode appeared in its group.   
+
+    This fucntion was written by StackExchange user abw333 and altered slightly.                                                                                                                                                                                                                                                                           
     '''
-    return df.groupby(key_cols + [value_col]).size().to_frame(count_col).reset_index().groupby(key_cols + [count_col])[value_col].unique().reset_index()
+    temp = df.groupby([key_col, value_col]).size().to_frame(count_col).reset_index().sort_values(count_col, ascending=False)
+
+    ranks = []
+    modes = []
+    modeframe = pd.DataFrame()
+    for rank in temp[key_col].unique():
+        subset = temp.loc[temp[key_col]==rank]
+        maxmode = max(subset['Count'])
+        withmax = subset.loc[subset['Count']==maxmode]
+        if len(withmax)>1:
+            if tiebreak=='random':
+                mode = np.random.choice(withmax[value_col], size=1)[0]
+            elif tiebreak=='first':
+                mode = withmax[value_col].tolist()[0]
+            elif tiebreak=='last':
+                mode = withmax[value_col].tolist()[-1]
+            elif tiebreak=='none':
+                mode = np.nan
+        else:
+            mode = withmax[value_col].tolist()[0]
+        ranks.append(rank)
+        modes.append(mode)
+
+    modeframe[key_col] = ranks
+    modeframe[value_col] = modes
+    return modeframe
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 def check_nan(thing):
@@ -148,6 +178,43 @@ def drop_ambig(DF, rank='Species', ambigs=['species', 'sp', 'spp', 'spec', 'sp.'
     
     temp = DF[~DF[rank].str.lower().isin([x.lower() for x in ambigs])]
     
-    temp.dropna(subset=[rank]).reset_index(drop=True)
+    return temp.dropna(subset=[rank]).reset_index(drop=True)
 
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+def data_fill_modes(df, group_by, to_fill, tiebreak='random', debug=False):
+    
+    # Create a copy to prevent bias after randomly choosing among responses
+    copy = df.copy()
+    fill_dict={}
+    # Loop over categories
+    for cat in to_fill:
+        filled_holes=0
+        # Create temporary dataframe with category modes
+        modeframe = catmode(df, key_col=group_by, value_col=cat)
+        for index, row in copy.iterrows():
+            taxon = copy.loc[index, group_by]
+            # Skip unidentified taxa
+            if taxon.lower() in ['species', 'sp', 'spp', 'spec', 'sp.', 'spp.', 'spec.']:
+                if debug: print("UH OH. UNIDENTIFIED TAXON: {}".format(taxon))
+                continue
+            # Only fill if current value is missing
+            current = copy.loc[index, cat]
+            if debug: print("Current taxon: {}, pathway: {}".format(taxon, current))
+            if check_nan(current) and taxon in modeframe[group_by].tolist():
+                if debug: print("\tFOUND A HOLE IN {}".format(taxon))
+                rankmode = modeframe.loc[modeframe[group_by]==taxon][cat].tolist()[0]
+                if debug: print("\tFound a mode for {}: {}".format(taxon, rankmode))
+            else:
+                rankmode = np.NaN
+                if debug: print("\t\tCANT FILL HOLE for {}: {}".format(taxon, rankmode))
+            copy.loc[index, cat] = rankmode
+    if debug: print fill_dict
+    return copy
 
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+def fill_numeric(df, group_by, values, how='mean'):
+    
+    if how=='mean':
+        temp = df.groupby(group_by).transform(lambda x: x.fillna(x.mean()))[values]
+        orig_cols = list(set(df.columns)-set(temp.columns))
+    return pd.concat([df[orig_cols], temp], axis=1).reset_index(drop=True)
