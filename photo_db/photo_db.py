@@ -9,7 +9,10 @@ import numpy as np
 import matplotlib as mpl
 mpl.use('TkAgg')
 import matplotlib.pyplot as plt
-import missingno as msno
+try:
+    import missingno as msno
+except ImportError:
+	print("Cannot find package 'missingno'. Try installing with\n\tpip install missingno")
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 def pull_data(dataset='cam_db'):
     """Retrieves data from the photosynthesis database or 'The List' of known 
