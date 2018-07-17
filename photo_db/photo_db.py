@@ -18,7 +18,7 @@ def pull_data(dataset='cam_db'):
     Parameters
     ----------
     dataset : name of database (str; default = 'cam_db', other option is 
-    	'the_list')
+        'the_list')
 
     Returns
     -------
@@ -47,9 +47,9 @@ def db_info(cam_db, plt_missingdata=False, **kwargs):
     Parameters
     ----------
     cam_db : pandas DataFrame with relatively similar structure to that pulled 
-    	by pull_data('cam_db')
+        by pull_data('cam_db')
     plt_missing : indicate whether to include missing data matrix plot (bool;
-    	default=False)
+        default=False)
     **kwargs : plotting arguments to be passed to missingno.matrix"""
     
     try:
@@ -114,7 +114,7 @@ def plot_svc_decision_function(model, ax=None, plot_support=True):
     model : model from sk-learn SVM (or similar type, such as LinearSVC)
     ax : plotting axis (default = None)
     plot_support : indicate whether or not to plot support vectors (bool;
-    	default=True)"""
+        default=True)"""
 
     if ax is None:
         ax = plt.gca()
@@ -165,7 +165,7 @@ def catmode(df, key_col, value_col, count_col='Count', tiebreak='random'):
     value_col : name of column of df to take the mode of (str)
     count_col : name of new column containing mode values (str; default='Count')
     tiebreak : rule by while multi-modal results are broken (strl default='random',
-    	other options include 'first', 'last', and 'neither')
+        other options include 'first', 'last', and 'neither')
 
     Returns
     -------
@@ -199,15 +199,15 @@ def catmode(df, key_col, value_col, count_col='Count', tiebreak='random'):
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 def check_nan(thing):
-	"""Shortcut to check if something is nan
+    """Shortcut to check if something is nan
 
-	Parameters
-	----------
-	thing : thing to check 
+    Parameters
+    ----------
+    thing : thing to check 
 
-	Returns
-	-------
-	bool indicating if thing is nan"""
+    Returns
+    -------
+    bool indicating if thing is nan"""
 
     try: 
         return math.isnan(thing)
@@ -222,9 +222,9 @@ def drop_ambig(df, rank='Species', ambigs=['species', 'sp', 'spp', 'spec', 'sp.'
     Parameters
     ----------
     df : pandas DataFrame similar to that created by pull_db('cam_db')
-	rank : taxonomic rank to drop from (str, default = 'Species')
-	ambigs : list of ambiguous strings (list; default = 
-		['species', 'sp', 'spp', 'spec', 'sp.', 'spp.', 'spec.', 'hybrid'])
+    rank : taxonomic rank to drop from (str, default = 'Species')
+    ambigs : list of ambiguous strings (list; default = 
+        ['species', 'sp', 'spp', 'spec', 'sp.', 'spp.', 'spec.', 'hybrid'])
     Returns
     -------
     temp : pandas DataFrame without ambiguous observations"""
@@ -246,9 +246,9 @@ def fill_na_modes(df, group_by, to_fill, tiebreak='random', debug=False):
     group_by : name of column to group by (str)
     to_fill : name of columns to perform mode-filling on (list)
     tiebreak : how to break choose from multi-modal groups (str; default = 
-    	'random', see photo_db.mode for more)
+        'random', see photo_db.mode for more)
     debug : include debugging-informative print statements (bool; default = 
-    	False)
+        False)
     Returns
     -------
     copy : pandas DataFrame with to_fill column NaNs replaced by group modes"""
@@ -289,11 +289,11 @@ def fill_numeric(df, group_by, to_fill, how='mean'):
 
     Parameters
     ----------
-	df : pandas DataFrame
-	group_by : name of column to group by (str)
+    df : pandas DataFrame
+    group_by : name of column to group by (str)
     values : name of columns to perform mode-filling on (list)
     how : how to fill NaNs (str; default = 'mean')
-	
+    
     Returns
     -------
     pandas DataFrame with to_fill columns NaNs filled by 'how' of groups"""
