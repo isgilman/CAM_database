@@ -311,7 +311,7 @@ def fill_numeric(df, group_by, to_fill, how='mean'):
     return pd.concat([df[orig_cols], temp], axis=1).reset_index(drop=True)
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-def fill_list_pwys(df, thelist=pull_data('the_list'), warnings=True, debug=False):
+def fill_list_pwys(df, thelist=photo_db.pull_data('the_list'), warnings=True, debug=False):
     """Fills the 'Pathway' column of a photo_db-like dataframe using
     the data contained in the 'The List' of photosynthetic pathways 
     for all plant genera.
@@ -339,7 +339,7 @@ def fill_list_pwys(df, thelist=pull_data('the_list'), warnings=True, debug=False
         genus = row["Genus"]
         pwy = row["Pathway"]
         # If pathway is missing
-        if check_nan(pwy):
+        if photo_db.check_nan(pwy):
             newpwy = np.NaN
             if debug: print("{} is missing a pathway".format(genus))
             # Cross reference The List
@@ -347,7 +347,7 @@ def fill_list_pwys(df, thelist=pull_data('the_list'), warnings=True, debug=False
                 listpwys = list(templist.loc[genus][templist.loc[genus]>0].index)
                 if debug: print(">>>Found pathway(s) for {}: {}".format(genus, listpwys))
                 # Check for multuple pathways and dC13 values
-                if len(listpwys)>1 and not check_nan(row["dC13"]):
+                if len(listpwys)>1 and not photo_db.check_nan(row["dC13"]):
                     if row["dC13"]<-22.0:
                         # Remove CAM and C4 if dC13 is very negative
                         listpwys = list(set(listpwys)-set(['CAM', 'C4']))
@@ -368,7 +368,7 @@ def fill_list_pwys(df, thelist=pull_data('the_list'), warnings=True, debug=False
                     newpwy = listpwys[0]
                     if debug: print("SINGLE PATHWAY OR NO DC13: {}, {}".format(genus, newpwy))
                     # Print warnings for strange pathway-dC13 combos
-                    if not check_nan(row["dC13"]):
+                    if not photo_db.check_nan(row["dC13"]):
                         if newpwy=='CAM' and row["dC13"]<-22.0 and warnings:
                             print("WARNING: {} was resolved as {} with dC13={}". format(genus, newpwy, row["dC13"]))
                         elif newpwy=='C4' and row["dC13"]<-22.0 and warnings:
