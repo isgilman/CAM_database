@@ -11,10 +11,9 @@ setuptools.setup(
     author_email="ian.gilman@yale.edu",
 
     description="Database and basic wrangling of photosynthesis traits",
-    # long_description=open('README.md').read(),
 
     packages=setuptools.find_packages(),
-
+    package_data={"photo_db" : ["Data/*.csv"]}
     install_requires=requirements,
 
     classifiers=[
