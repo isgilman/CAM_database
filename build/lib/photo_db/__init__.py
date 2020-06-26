@@ -1,1 +1,0 @@
-import photo_db
