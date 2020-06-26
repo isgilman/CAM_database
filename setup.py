@@ -16,7 +16,7 @@ setuptools.setup(
     package_data={"photo_db" : ["Data/*.csv"]},
     include_package_data=True,
     install_requires=requirements,
-
+    zip_safe=False,
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
