@@ -13,7 +13,7 @@ setuptools.setup(
     description="Database and basic wrangling of photosynthesis traits",
 
     packages=setuptools.find_packages(),
-    package_data={"photo_db" : ["Data/*.csv"]}
+    package_data={"photo_db" : ["Data/*.csv"]},
     install_requires=requirements,
 
     classifiers=[
