@@ -14,6 +14,7 @@ setuptools.setup(
 
     packages=setuptools.find_packages(),
     package_data={"photo_db" : ["Data/*.csv"]},
+    include_package_data=True,
     install_requires=requirements,
 
     classifiers=[
