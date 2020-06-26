@@ -1,0 +1,15 @@
+Order,Family,Subfamily,Tribe,Subtribe,Genus,Species,Infradel,Subspecies,Taxon,Taxonomy_Status,Pathway,dC13,BS_area_um2,FM_DM,FM_DM_sd,IAS,IAS_sd,SLA_cm2_g-1,SLA_cm2_g-1_sd,air_channel_area_um2,air_channel_area_um2_sd,chlorenchyma_diameter_um,chlorenchyma_diameter_um_sd,chlorenchyma_hydrenchyma_ratio,chlorenchyma_hydrenchyma_ratio_sd,chlorenchyma_vertical_thickness_um,chlorenchyma_vertical_thickness_um_sd,distance_between_BS_um,Kranz_anatomy,hydrenchyma_vertical_thickness_um,hydrenchyma_vertical_thickness_um_sd,leaf_thickness_um,leaf_thickness_um_sd,mesophyll_abaxial_area_um2,mesophyll_abaxial_length_um,mesophyll_adaxial_area_um2,mesophyll_adaxial_length_um,mesophyll_thickness_um,mesophyll_thickness_um_sd,mesophyll_cell_area_um2,Habit,tissue,CITEKEYS
+,,,,,Astragalus,tennesseensis,,,,,,C3,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,Baskin1985AMN
+,,,,,Dalea,foliosa,,,,,,C3,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,Baskin1985AMN
+,,,,,Dalea,gattingeri,,,,,,C3,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,Baskin1985AMN
+,,,,,Echinacea,tennesseensis,,,,,,C3,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,Baskin1985AMN
+,,,,,Hypericum,dolabriforme,,,,,,C3,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,Baskin1985AMN
+,,,,,Leavenworthia,exigua,var.,exigua,,,,C3,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,Baskin1985AMN
+,,,,,Leavenworthia,torulosa,,,,,,C3,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,Baskin1985AMN
+,,,,,Lobelia,gattingeri,,,,,,C3,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,Baskin1985AMN
+,,,,,Onosmodium,molle,ssp.,molle,,,,C3,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,Baskin1985AMN
+,,,,,Oxalis,priceae,priceae,,,,,C3,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,Baskin1985AMN
+,,,,,Penstemon,tenuiflorus,,,,,,C3,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,Baskin1985AMN
+,,,,,Psoralea,subacaulis,,,,,,C3,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,Baskin1985AMN
+,,,,,Solidago,shortii,,,,,,C3,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,Baskin1985AMN
+,,,,,Viola,egglestonii,,,,,,C3,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,Baskin1985AMN

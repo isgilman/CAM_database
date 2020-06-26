@@ -1,0 +1,11 @@
+Order,Family,Subfamily,Tribe,Subtribe,Genus,Species,Infradel,Subspecies,Taxon,Taxonomy_Status,Pathway,Pathway_subtype,dC13,Kranz_anatomy,Kranz_subtype,BS_area_um2,FM_DM,FM_DM_sd,leaf_thickness_um,leaf_thickness_um_sd,IAS,IAS_sd,SLA_cm2_g-1,SLA_cm2_g-1_sd,air_channel_area_um2,air_channel_area_um2_sd,chlorenchyma_diameter_um,chlorenchyma_diameter_um_sd,chlorenchyma_hydrenchyma_ratio,chlorenchyma_hydrenchyma_ratio_sd,chlorenchyma_vertical_thickness_um,chlorenchyma_vertical_thickness_um_sd,distance_between_BS_um,hydrenchyma_vertical_thickness_um,hydrenchyma_vertical_thickness_um_sd,mesophyll_area_um2,mesophyll_thickness_um,mesophyll_thickness_um_sd,BS:M,mesophyll_cell_area_um2,vein_density_m_mm-2,Habit,tissue,CITEKEYS
+,Cyperaceae,,,,Hypolytrum,bullatum,,,,,C4,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Alves2002BJB
+,Cyperaceae,,,,Hypolytrum,graziovii,,,,,C3,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Alves2002BJB
+,Cyperaceae,,,,Hypolytrum,longifolium,,,,,C4,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Alves2002BJB
+,Cyperaceae,,,,Hypolytrum,pulchrum,,,,,C3,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Alves2002BJB
+,Cyperaceae,,,,Hypolytrum,rigens,,,,,C3,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Alves2002BJB
+,Cyperaceae,,,,Hypolytrum,schraderianum,,,,,C3,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Alves2002BJB
+,Cyperaceae,,,,Hypolytrum,sp. nov.,,,,,C3,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Alves2002BJB
+,Cyperaceae,,,,Hypolytrum,sphaerostachyum,,,,,C4,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Alves2002BJB
+,Cyperaceae,,,,Hypolytrum,stemonifolium,,,,,C3,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Alves2002BJB
+,Cyperaceae,,,,Hypolytrum,verticillatum,,,,,C3,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Alves2002BJB

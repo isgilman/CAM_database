@@ -1,0 +1,73 @@
+Order,Family,Subfamily,Tribe,Subtribe,Genus,Species,Infradel,Subspecies,Taxon,Kranz_subtype,Taxonomy_Status,Pathway,Pathway_subtype,dC13,Kranz_anatomy,BS_area_um2,FM_DM,FM_DM_sd,leaf_thickness_um,leaf_thickness_um_sd,IAS,IAS_sd,vein_density_m_mm-2,BS:M,SLA_cm2_g-1,SLA_cm2_g-1_sd,air_channel_area_um2,air_channel_area_um2_sd,chlorenchyma_diameter_um,chlorenchyma_diameter_um_sd,chlorenchyma_hydrenchyma_ratio,chlorenchyma_hydrenchyma_ratio_sd,chlorenchyma_vertical_thickness_um,chlorenchyma_vertical_thickness_um_sd,distance_between_BS_um,hydrenchyma_vertical_thickness_um,hydrenchyma_vertical_thickness_um_sd,mesophyll_area_um2,mesophyll_thickness_um,mesophyll_thickness_um_sd,mesophyll_cell_area_um2,Habit,tissue,CITEKEYS
+,Acanthaceae,,,,,,,,Blepharis ciliaris,Atriplicoid,,C4,NADP-ME,,1,20726.9,,,317.2,,13.5,,12.4,0.22833,,,,,,,,,,,,,,90776.7,,,,,,Muhaidat2007AJB
+,Aizoaceae,,,,,,,,Aizoon canariense,,,C3,,,,17569.3,,,327.4,,13.4,,7.7,0.19124,,,,,,,,,,,,,,91872.8,,,,,,Muhaidat2007AJB
+,Aizoaceae,,,,,,,,Cypselea humifusa,Atriplicoid,,C4,NADP-ME,,1,42705.3,,,401.8,,12.1,,13.4,0.29602,,,,,,,,,,,,,,144267.2,,,,,,Muhaidat2007AJB
+,Aizoaceae,,,,,,,,Sesuvium verrocosum,Atriplicoid,,C3,,,,237689.9,,,1002.3,,22.2,,8.2,0.17735,,,,,,,,,,,,,,1340216.1,,,,,,Muhaidat2007AJB
+,Aizoaceae,,,,,,,,Trianthema portulacastrum,Atriplicoid,,C4,NADP-ME,,1,33362.3,,,482,,29.3,,7.7,0.15574,,,,,,,,,,,,,,214215.4,,,,,,Muhaidat2007AJB
+,Aizoaceae,,,,,,,,Zaleya pentandra,Atriplicoid,,C4,NAD-ME,,1,42282.8,,,422.2,,15.7,,7.2,0.37000,,,,,,,,,,,,,,114277.9,,,,,,Muhaidat2007AJB
+,Amaranthaceae,,,,,,,,Aerva lanata,,,C3,,,,10073.5,,,317.9,,24.6,,,0.10009,,,,,,,,,,,,,,100645.8,,,,,,Muhaidat2007AJB
+,Amaranthaceae,,,,,,,,Aerva persica,Atriplicoid,,C4,NADP-ME,,1,17736.6,,,270.9,,20.7,,6.8,0.23988,,,,,,,,,,,,,,73940.8,,,,,,Muhaidat2007AJB
+,Amaranthaceae,,,,,,,,Alternanthera,Atriplicoid,,C4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Muhaidat2007AJB
+,Amaranthaceae,,,,,,,,Amaranthus retroflexa,Atriplicoid,,C4,NAD-ME,,1,8011,,,158.5,,20.2,,9.5,0.37484,,,,,,,,,,,,,,21371.8,,,,,,Muhaidat2007AJB
+,Amaranthaceae,,,,,,,,Amaranthus tricolor,,,C4,NAD-ME,,1,11717.3,,,136.1,,15.5,,8,0.77140,,,,,,,,,,,,,,15189.6,,,,,,Muhaidat2007AJB
+,Amaranthaceae,,,,,,,,Celosia cristata,,,C3,,,,16880,,,406.5,,40.7,,11.6,0.07594,,,,,,,,,,,,,,222293.2,,,,,,Muhaidat2007AJB
+,Amaranthaceae,,,,,,,,Gomphrena globosa,Atriplicoid,,C4,NADP-ME,,1,10937.6,,,245.1,,10,,5.4,0.17483,,,,,,,,,,,,,,62561.6,,,,,,Muhaidat2007AJB
+,Amaranthaceae,,,,,,,,Iresine herbstii,,,C3,,,,7331.2,,,183.9,,25.9,,9.7,0.15065,,,,,,,,,,,,,,48664,,,,,,Muhaidat2007AJB
+,Asteraceae,,,,,,,,Flaveria cronquistii,,,C3,,,,6857.4,,,324.4,,11.8,,7.9,0.05942,,,,,,,,,,,,,,115397.7,,,,,,Muhaidat2007AJB
+,Asteraceae,,,,,,,,Flaveria trinervia,Atriplicoid,,C4,NADP-ME,,1,15989.8,,,190.4,,9.5,,,0.45816,,,,,,,,,,,,,,34900.2,,,,,,Muhaidat2007AJB
+,Asteraceae,,,,,,,,Pectis glaucescens,Atriplicoid,,C4,NADP-ME,,1,12636,,,232.5,,15.1,,8.4,0.27711,,,,,,,,,,,,,,45600,,,,,,Muhaidat2007AJB
+,Asteraceae,,,,,,,,Isostigma,Atriplicoid+Isostigma,,C4,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Muhaidat2007AJB
+,Asteraceae,,,,,,,,Chysanthellum,Atriplicoid+Salsoloid,,C4,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Muhaidat2007AJB
+,Asteraceae,,,,,,,,Tagetes erecta,,,C3,,,,2438.9,,,187.6,,16.6,,8.6,0.04796,,,,,,,,,,,,,,50847.5,,,,,,Muhaidat2007AJB
+,Boraginaceae,,,,,,,,Heliotropium polyphyllum,Atriplicoid,,C4,NADP-ME,,1,14211.6,,,215.9,,6.8,,,0.39635,,,,,,,,,,,,,,35856.3,,,,,,Muhaidat2007AJB
+,Boraginaceae,,,,,,,,Heliotropium tenellum,,,C3,,,,8117.2,,,263.6,,30,,7.5,0.11528,,,,,,,,,,,,,,70410.3,,,,,,Muhaidat2007AJB
+,Brassicaceae,,,,,,,,Cleome gynandra,Atriplicoid,,C4,NAD-ME,,1,18926.5,,,324.2,,21.9,,,0.47144,,,,,,,,,,,,,,40146.1,,,,,,Muhaidat2007AJB
+,Brassicaceae,,,,,,,,Cleome trinervia,,,C3,,,,9302.9,,,300,,26.5,,7,0.09679,,,,,,,,,,,,,,96115.8,,,,,,Muhaidat2007AJB
+,Caryophyllaceae,,,,,,,,Polycarpea longiflora,Atriplicoid,,C4,NADP-ME,,1,20115.9,,,194.9,,13.1,,11.1,0.36715,,,,,,,,,,,,,,54788.9,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Atripex texana,Atriplicoid,,C4,NAD-ME,,1,9707.8,,,197.1,,4.8,,,0.29178,,,,,,,,,,,,,,33271.2,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Atriplex acanthocarpa,,,C4,NAD-ME,,1,12896.6,,,179.6,,9.5,,,0.49410,,,,,,,,,,,,,,26101.2,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Atriplex canescens,,,C4,NAD-ME,,1,7668.2,,,145.7,,12,,14.2,0.47092,,,,,,,,,,,,,,16283.5,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Atriplex hortensis,,,C3,,,,12292.2,,,285.8,,25.9,,6.3,0.13766,,,,,,,,,,,,,,89296.6,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Atriplex hymenelytra,Atriplicoid,,C4,NAD-ME,,1,9462.7,,,139,,14.2,,,0.35803,,,,,,,,,,,,,,26430.1,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Atriplex littoralis,,,C3,,,,8217.9,,,280.8,,17.2,,9.5,0.09608,,,,,,,,,,,,,,85532,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Atriplex polycarpa,Atriplicoid,,C4,NAD-ME,,1,8497.2,,,132,,11.5,,10.2,0.40122,,,,,,,,,,,,,,21178.6,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Atriplex rosea,Atriplicoid,,C4,NAD-ME,,1,9988.3,,,212,,26.7,,,0.39366,,,,,,,,,,,,,,25372.7,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Atriplex triangularis,,,C3,,,,10893.6,,,283.6,,20.4,,,0.11829,,,,,,,,,,,,,,92090,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Chenopodium album,,,C3,,,,7575.4,,,235,,34.9,,11.5,0.13716,,,,,,,,,,,,,,55230.3,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Chenopodium potrys,,,C3,,,,9739.2,,,253.3,,31.1,,7.8,0.11834,,,,,,,,,,,,,,82301.7,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Haloxylon aphyllum,,,C4,NADP-ME,,1,5128.5,,,,,1.4,,7.5,0.45210,,,,,,,,,,,,,,11343.8,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Kochia scoparia,Kochioid,,C4,NADP-ME,,1,13578.3,,,,,6.8,,,0.40287,,,,,,,,,,,,,,33703.8,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Bassia,Kochioid,,C4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Chenolea,Kochioid,,C4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Halosarcia,Salsoloid,,C4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Climacoptera,Salsoloid,,C4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Salicornia arabica,,,C3,,,,22388.8,,,,,18.5,,4,0.06649,,,,,,,,,,,,,,336722.5,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Salsola komarovii,Salsoloid,,C4,NADP-ME,,1,5594.8,,,,,2.1,,6.9,0.49790,,,,,,,,,,,,,,11236.7,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Haloxylon persicum,Salsoloid,,C4,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Saueda vera,,,C3,,,,35434.1,,,,,27.4,,7.3,0.10268,,,,,,,,,,,,,,345107.6,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Girgensohnia,Salsoloid,,C4,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Noaea,Salsoloid,,C4,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Suaeda vermiculata,Suaedoid,,C4,NAD-ME,,1,39624.7,,,,,5.4,,6.7,0.20223,,,,,,,,,,,,,,195942.4,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Suaeda,Conospermoid,,C4,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Ofaiston,Salsoloid,,C3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Bienertia,Single-cell,,C4,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Muhaidat2007AJB
+,Chenopodiaceae,,,,,,,,Borszczowia,Single-cell,,C4,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Muhaidat2007AJB
+,Euphorbiaceae,,,,,,,,Chamaesyce hirta,Atriplicoid,,C4,NADP-ME,,1,12732.8,,,156.7,,14.7,,8.1,0.31880,,,,,,,,,,,,,,39939.9,,,,,,Muhaidat2007AJB
+,Euphorbiaceae,,,,,,,,Chamaesyce prostrata,,,C4,NADP-ME,,1,21303.4,,,277.7,,13.8,,7.8,0.28660,,,,,,,,,,,,,,74332.1,,,,,,Muhaidat2007AJB
+,Euphorbiaceae,,,,,,,,Gisekia,Atriplicoid,,C4,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Muhaidat2007AJB
+,Euphorbiaceae,,,,,,,,Mollugo,Atriplicoid,,C4,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Muhaidat2007AJB
+,Euphorbiaceae,,,,,,,,Euphorbia lathyrus,,,C3,,,,6638.5,,,274.2,,45.2,,9.1,0.07120,,,,,,,,,,,,,,93231.4,,,,,,Muhaidat2007AJB
+,Euphorbiaceae,,,,,,,,Euphorbia peplus,,,C3,,,,4145.8,,,132.6,,26.3,,,0.14165,,,,,,,,,,,,,,29268.9,,,,,,Muhaidat2007AJB
+,Nyctaginaceae,,,,,,,,Boerhavia coccinea,Atriplicoid,,C4,NADP-ME,,1,8726.3,,,250.5,,28.3,,10.6,0.11717,,,,,,,,,,,,,,74477.9,,,,,,Muhaidat2007AJB
+,Nyctaginaceae,,,,,,,,Boerhavia domnii,,,C4,NADP-ME,,1,9069.2,,,286.2,,24.4,,9.3,0.10434,,,,,,,,,,,,,,86920.4,,,,,,Muhaidat2007AJB
+,Nyctaginaceae,,,,,,,,Commicarpus africanus,,,C3,,,,15090,,,470,,21.3,,6,0.08779,,,,,,,,,,,,,,171887.5,,,,,,Muhaidat2007AJB
+,Nyctaginaceae,,,,,,,,Mirabilis jalapa,,,C3,,,,13562.9,,,305,,37,,12.4,0.13571,,,,,,,,,,,,,,99939.5,,,,,,Muhaidat2007AJB
+,Polygonaceae,,,,,,,,Calligonum caput-medusae,Salsoloid,,C4,NAD-ME,,1,38089.2,,,,,8.5,,,0.31820,,,,,,,,,,,,,,119702.2,,,,,,Muhaidat2007AJB
+,Portulacaceae,,,,,,,,Portulaca grandiflora,Atriplicoid,,C4,NADP-ME,,1,27505.1,,,,,10.2,,8.9,0.37175,,,,,,,,,,,,,,73988.3,,,,,,Muhaidat2007AJB
+,Portulacaceae,,,,,,,,Portulaca oleracea,Atriplicoid,,C4,NAD-ME,,1,9449.6,,,663.9,,8,,7.6,0.21578,,,,,,,,,,,,,,43791.9,,,,,,Muhaidat2007AJB
+,Zygophyllaceae,,,,,,,,Kallstroemia grandiflora,Atriplicoid,,C4,NADP-ME,,1,12724.3,,,216.4,,20.4,,10,0.22656,,,,,,,,,,,,,,56162.9,,,,,,Muhaidat2007AJB
+,Zygophyllaceae,,,,,,,,Anticharis,,,C4,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Muhaidat2007AJB
+,Zygophyllaceae,,,,,,,,Larrea tridentata,,,C3,,,,5139.4,,,309.1,,30.8,,10.5,0.04681,,,,,,,,,,,,,,109782.8,,,,,,Muhaidat2007AJB
+,Zygophyllaceae,,,,,,,,Tribulus eichlerianus,Atriplicoid,,C4,NADP-ME,,1,27458.4,,,307.9,,7.8,,,0.36249,,,,,,,,,,,,,,75750.2,,,,,,Muhaidat2007AJB
+,Zygophyllaceae,,,,,,,,Zygophyllum coccineum,,,C3,,,,36659.8,,,,,13.5,,7.8,0.11053,,,,,,,,,,,,,,331682.9,,,,,,Muhaidat2007AJB
+,Zygophyllaceae,,,,,,,,Zygophyllum simplex,Kochioid,,C4,NAD-ME,,1,,,,,,7.6,,,,,,,,,,,,,,,,,,,,,,,Muhaidat2007AJB

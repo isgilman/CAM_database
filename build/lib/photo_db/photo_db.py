@@ -2,11 +2,12 @@
 
 # Core
 import re, csv, requests, math
+from pathlib import Path
 try:
     import pandas as pd
 except ImportError:
     print("Cannot find package 'pandas'. Try installing with\n\tpip install pandas")
-from pandas.compat import StringIO
+# from pandas.compat import StringIO
 import numpy as np
 # Plotting
 import matplotlib as mpl
@@ -16,27 +17,27 @@ try:
     import missingno as msno
 except ImportError:
     print("Cannot find package 'missingno'. Try installing with\n\tpip install missingno")
+
+
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-def pull_data(dataset='cam_db'):
-    """Retrieves data from the photosynthesis database or 'The List' of known 
-    photosynthetic pathways for all plant genera.
+def pull_data(dataset='traits'):
+    """Retrieves data from either the database photosynthesis traits or the
+    database of photosynthetic pathways for all plant genera.
 
     Parameters
     ----------
-    dataset : name of database (str; default = 'cam_db', other option is 
-        'the_list')
+    dataset : name of database (str; default = 'traits', other option is
+        'pathways')
 
     Returns
     -------
     df : pandas DataFrame"""
+    datapath = Path(__file__).parent / "Data" / "CAM_database.csv"
 
-    if dataset=='cam_db':
-        url = 'https://raw.githubusercontent.com/isgilman/CAM_database/master/CAM_database.csv'  
-    elif dataset=='the_list':
-        url = 'https://raw.githubusercontent.com/isgilman/CAM_database/master/Genera_Photosynthesis.csv'
-    
-    gitdata = requests.get(url).text
-    df = pd.read_csv(StringIO(gitdata))
+    if dataset.lower()=='traits':
+        df = pd.DataFrame(str(datapath/"CAM_database.csv"))
+    elif dataset.lower()=='pathways':
+        df = pd.DataFrame(str(datapath/"Genera_Photosynthesis.csv"))
 
     for col in df.columns:
         if "Unnamed" in col:
@@ -86,28 +87,20 @@ def db_info(cam_db, plt_missingdata=False, **kwargs):
         sources = len(cam_db.dropna(subset=[['Source']]).Source.unique())
     except KeyError:
         sources = None
-    try:
-        print "The CAM database consists of:\n\t{} observations,\
-                                            \n\t{} families,\
-                                            \n\t{} subfamiles,\
-                                            \n\t{} tribes,\
-                                            \n\t{} subtribes,\
-                                            \n\t{} genera, and\
-                                            \n\t{} species from {} publications.\
-                                            \n{:.3} of the data matrix is missing and\
-                                            \n{} observations have known photosynthetic pathways.".format(
-        len(cam_db),
-        fams,
-        subfams,
-        tribes,
-        subtribes,
-        genera,
-        species,
-        sources,
-        float(cam_db.melt().isnull().sum()[1])/(cam_db.shape[0]*cam_db.shape[1]),
-        len(cam_db.dropna(subset=[['Pathway']])))
-    except AttributeError:
-        print("Can't find funtion pd.DataFrame.melt. Try updating pandas with\n\tconda update pandas")
+    # try:
+    #     print("The database consists of:\n\t{} observations, \n\t{} families,\n\t{} subfamiles,\n\t{} tribes, \n\t{} subtribes,\n\t{} genera, and \n\t{} species from {} publications.\n{:.3} of the data matrix is missing and\n{} observations have known photosynthetic pathways.".format(
+    #     len(cam_db),
+    #     fams,
+    #     subfams,
+    #     tribes,
+    #     subtribes,
+    #     genera,
+    #     species,
+    #     sources,
+    #     float(cam_db.melt().isnull().sum()[1])/(cam_db.shape[0]*cam_db.shape[1]),
+    #     len(cam_db.dropna(subset=[['Pathway']]))))
+    # except AttributeError:
+    #     print("Can't find funtion pd.DataFrame.melt. Try updating pandas with\n\tconda update pandas")
     if plt_missingdata:
         msno.matrix(cam_db, **kwargs)
 
@@ -150,7 +143,7 @@ def plot_svc_decision_function(model, ax=None, plot_support=True):
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 def catmode(df, key_col, value_col, count_col='Count', tiebreak='random'):
-    """Pandas does not provide a `mode` aggregation function for its `GroupBy` 
+    """Pandas does not provide a modal aggregation function for its `GroupBy`
     objects. This function is meant to fill that gap, though the semantics are 
     not exactly the same.                                                                                                                                                                                                                                                                                                         
 
@@ -265,7 +258,6 @@ def fill_na_modes(df, group_by, to_fill, tiebreak='random', debug=False):
     fill_dict={}
     # Loop over categories
     for cat in to_fill:
-        filled_holes=0
         # Create temporary dataframe with category modes
         modeframe = catmode(df, key_col=group_by, value_col=cat)
         for index, row in copy.iterrows():
@@ -285,7 +277,7 @@ def fill_na_modes(df, group_by, to_fill, tiebreak='random', debug=False):
                 rankmode = np.NaN
                 if debug: print("\t\tCANT FILL HOLE for {}: {}".format(taxon, rankmode))
             copy.loc[index, cat] = rankmode
-    if debug: print fill_dict
+    if debug: print(fill_dict)
     return copy
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -311,7 +303,7 @@ def fill_numeric(df, group_by, to_fill, how='mean'):
     return pd.concat([df[orig_cols], temp], axis=1).reset_index(drop=True)
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-def fill_list_pwys(df, thelist=photo_db.pull_data('the_list'), warnings=True, debug=False):
+def fill_list_pwys(df, thelist=pull_data('the_list'), warnings=True, debug=False):
     """Fills the 'Pathway' column of a photo_db-like dataframe using
     the data contained in the 'The List' of photosynthetic pathways 
     for all plant genera.
@@ -339,7 +331,7 @@ def fill_list_pwys(df, thelist=photo_db.pull_data('the_list'), warnings=True, de
         genus = row["Genus"]
         pwy = row["Pathway"]
         # If pathway is missing
-        if photo_db.check_nan(pwy):
+        if check_nan(pwy):
             newpwy = np.NaN
             if debug: print("{} is missing a pathway".format(genus))
             # Cross reference The List
@@ -347,7 +339,7 @@ def fill_list_pwys(df, thelist=photo_db.pull_data('the_list'), warnings=True, de
                 listpwys = list(templist.loc[genus][templist.loc[genus]>0].index)
                 if debug: print(">>>Found pathway(s) for {}: {}".format(genus, listpwys))
                 # Check for multuple pathways and dC13 values
-                if len(listpwys)>1 and not photo_db.check_nan(row["dC13"]):
+                if len(listpwys)>1 and not check_nan(row["dC13"]):
                     if row["dC13"]<-22.0:
                         # Remove CAM and C4 if dC13 is very negative
                         listpwys = list(set(listpwys)-set(['CAM', 'C4']))
@@ -368,7 +360,7 @@ def fill_list_pwys(df, thelist=photo_db.pull_data('the_list'), warnings=True, de
                     newpwy = listpwys[0]
                     if debug: print("SINGLE PATHWAY OR NO DC13: {}, {}".format(genus, newpwy))
                     # Print warnings for strange pathway-dC13 combos
-                    if not photo_db.check_nan(row["dC13"]):
+                    if not check_nan(row["dC13"]):
                         if newpwy=='CAM' and row["dC13"]<-22.0 and warnings:
                             print("WARNING: {} was resolved as {} with dC13={}". format(genus, newpwy, row["dC13"]))
                         elif newpwy=='C4' and row["dC13"]<-22.0 and warnings:
